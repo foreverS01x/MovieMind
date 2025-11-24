@@ -1,0 +1,2090 @@
+[
+  {
+    "session": 65,
+    "year": 2015,
+    "winner": "出租车 تاکسی",
+    "nominees": [
+      "爱森斯坦在瓜纳华托 Eisenstein in Guanajuato",
+      "一步之遥",
+      "沙漠女王 Queen of the Desert",
+      "圣杯骑士 Knight of Cups",
+      "电子云层下 Под электрическими облаками",
+      "大爸爸，小爸爸和其它故事 Cha và con và",
+      "女仆日记 Journal d'une femme de chambre",
+      "没有人喜欢黑夜 Nadie quiere la noche",
+      "珍珠纽扣 El botón de nácar",
+      "当我们做梦时 Als wir träumten",
+      "天之茶助 天の茶助",
+      "45周年 45 Years",
+      "处女之誓 Vergine giurata",
+      "喝彩！ Aferim!",
+      "火山下的人生 Ixcanul",
+      "维多利亚 Victoria",
+      "身体 Ciało",
+      "神父俱乐部 El club"
+    ],
+    "all_movies_data": [
+      {
+        "title": "出租车 تاکسی",
+        "link": "https://movie.douban.com/subject/26304167/",
+        "metas": "贾法·帕纳西",
+        "is_winner": true,
+        "tmdb_id": 103,
+        "tmdb_title": "出租车司机",
+        "tmdb_release_date": "1976-02-09"
+      },
+      {
+        "title": "爱森斯坦在瓜纳华托 Eisenstein in Guanajuato",
+        "link": "https://movie.douban.com/subject/6048838/",
+        "metas": "彼得·格林纳威",
+        "is_winner": false,
+        "tmdb_id": 121869,
+        "tmdb_title": "爱森斯坦在瓜纳华托",
+        "tmdb_release_date": "2015-02-11"
+      },
+      {
+        "title": "一步之遥",
+        "link": "https://movie.douban.com/subject/6126442/",
+        "metas": "姜文",
+        "is_winner": false,
+        "tmdb_id": 312408,
+        "tmdb_title": "一步之遥",
+        "tmdb_release_date": "2014-12-18"
+      },
+      {
+        "title": "沙漠女王 Queen of the Desert",
+        "link": "https://movie.douban.com/subject/6874051/",
+        "metas": "沃纳·赫尔佐格",
+        "is_winner": false,
+        "tmdb_id": 50470,
+        "tmdb_title": "沙漠女王艾曼纽",
+        "tmdb_release_date": "1982-01-01"
+      },
+      {
+        "title": "圣杯骑士 Knight of Cups",
+        "link": "https://movie.douban.com/subject/6966617/",
+        "metas": "泰伦斯·马力克",
+        "is_winner": false,
+        "tmdb_id": 86835,
+        "tmdb_title": "圣杯骑士",
+        "tmdb_release_date": "2015-09-10"
+      },
+      {
+        "title": "电子云层下 Под электрическими облаками",
+        "link": "https://movie.douban.com/subject/19897413/",
+        "metas": "小阿列克谢·日耳曼",
+        "is_winner": false,
+        "tmdb_id": 320005,
+        "tmdb_title": "电子云层下",
+        "tmdb_release_date": "2015-06-04"
+      },
+      {
+        "title": "大爸爸，小爸爸和其它故事 Cha và con và",
+        "link": "https://movie.douban.com/subject/20515994/",
+        "metas": "潘党迪",
+        "is_winner": false,
+        "tmdb_id": 320000,
+        "tmdb_title": "大爸爸，小爸爸和其它故事",
+        "tmdb_release_date": "2015-01-20"
+      },
+      {
+        "title": "女仆日记 Journal d'une femme de chambre",
+        "link": "https://movie.douban.com/subject/21625070/",
+        "metas": "伯努瓦·雅克",
+        "is_winner": false,
+        "tmdb_id": 45212,
+        "tmdb_title": "女仆日记",
+        "tmdb_release_date": "1946-02-15"
+      },
+      {
+        "title": "没有人喜欢黑夜 Nadie quiere la noche",
+        "link": "https://movie.douban.com/subject/22521228/",
+        "metas": "伊莎贝尔·科赛特",
+        "is_winner": false,
+        "tmdb_id": 320004,
+        "tmdb_title": "没有人喜欢黑夜",
+        "tmdb_release_date": "2015-11-27"
+      },
+      {
+        "title": "珍珠纽扣 El botón de nácar",
+        "link": "https://movie.douban.com/subject/25802702/",
+        "metas": "帕特里西奥·古斯曼",
+        "is_winner": false,
+        "tmdb_id": 319994,
+        "tmdb_title": "珍珠纽扣",
+        "tmdb_release_date": "2015-10-15"
+      },
+      {
+        "title": "当我们做梦时 Als wir träumten",
+        "link": "https://movie.douban.com/subject/25806420/",
+        "metas": "安德里亚斯·德里森",
+        "is_winner": false,
+        "tmdb_id": 311301,
+        "tmdb_title": "当我们做梦时",
+        "tmdb_release_date": "2015-02-10"
+      },
+      {
+        "title": "天之茶助 天の茶助",
+        "link": "https://movie.douban.com/subject/25835465/",
+        "metas": "萨布",
+        "is_winner": false,
+        "tmdb_id": 319996,
+        "tmdb_title": "天之茶助",
+        "tmdb_release_date": "2015-06-27"
+      },
+      {
+        "title": "45周年 45 Years",
+        "link": "https://movie.douban.com/subject/25839662/",
+        "metas": "安德鲁·海格",
+        "is_winner": false,
+        "tmdb_id": 311291,
+        "tmdb_title": "45周年",
+        "tmdb_release_date": "2015-05-29"
+      },
+      {
+        "title": "处女之誓 Vergine giurata",
+        "link": "https://movie.douban.com/subject/25860880/",
+        "metas": "劳拉·比斯普里",
+        "is_winner": false,
+        "tmdb_id": 319998,
+        "tmdb_title": "处女之誓",
+        "tmdb_release_date": "2015-03-19"
+      },
+      {
+        "title": "喝彩！ Aferim!",
+        "link": "https://movie.douban.com/subject/26247311/",
+        "metas": "拉杜·裘德",
+        "is_winner": false,
+        "tmdb_id": 319993,
+        "tmdb_title": "喝彩",
+        "tmdb_release_date": "2015-03-06"
+      },
+      {
+        "title": "火山下的人生 Ixcanul",
+        "link": "https://movie.douban.com/subject/26283140/",
+        "metas": "杰罗·布斯塔曼特",
+        "is_winner": false,
+        "tmdb_id": 320001,
+        "tmdb_title": "火山下的人生",
+        "tmdb_release_date": "2015-01-20"
+      },
+      {
+        "title": "维多利亚 Victoria",
+        "link": "https://movie.douban.com/subject/26303865/",
+        "metas": "塞巴斯蒂安·席佩尔",
+        "is_winner": false,
+        "tmdb_id": 337911,
+        "tmdb_title": "维多利亚火车谋杀案",
+        "tmdb_release_date": "2013-02-21"
+      },
+      {
+        "title": "身体 Ciało",
+        "link": "https://movie.douban.com/subject/26304168/",
+        "metas": "玛乌戈扎塔·舒莫夫斯卡",
+        "is_winner": false,
+        "tmdb_id": 319999,
+        "tmdb_title": "身体",
+        "tmdb_release_date": "2015-01-20"
+      },
+      {
+        "title": "神父俱乐部 El club",
+        "link": "https://movie.douban.com/subject/26307442/",
+        "metas": "帕布罗·拉雷恩",
+        "is_winner": false,
+        "tmdb_id": 319995,
+        "tmdb_title": "神父俱乐部",
+        "tmdb_release_date": "2015-05-28"
+      }
+    ]
+  },
+  {
+    "session": 66,
+    "year": 2016,
+    "winner": "海上火焰 Fuocoammare",
+    "nominees": [
+      "天才捕手 Genius",
+      "长江图",
+      "我是尼罗 Soy Nero",
+      "公社 Kollektivet",
+      "午夜逃亡 Midnight Special",
+      "柏林孤影 Alone in Berlin",
+      "将来的事 L'avenir",
+      "当我们17岁 Quand on a 17 ans",
+      "悲伤秘密的摇篮曲 Hele sa hiwagang hapis",
+      "失去贝拉特斯的波利斯 Boris sans Béatrice",
+      "零日 Zero Days",
+      "死于萨拉热窝 Smrt u Sarajevu",
+      "战场来信 Cartas da Guerra",
+      "爱情合众国 Zjednoczone Stany Miłosci",
+      "赫迪 نحبك هدي",
+      "龙来了 اژدها وارد می‌شود!",
+      "二十四周 24 Wochen"
+    ],
+    "all_movies_data": [
+      {
+        "title": "海上火焰 Fuocoammare",
+        "link": "https://movie.douban.com/subject/26344731/",
+        "metas": "吉安弗兰科·罗西",
+        "is_winner": true,
+        "tmdb_id": 377151,
+        "tmdb_title": "海上火焰",
+        "tmdb_release_date": "2016-02-18"
+      },
+      {
+        "title": "天才捕手 Genius",
+        "link": "https://movie.douban.com/subject/5262339/",
+        "metas": "迈克尔·格兰达吉",
+        "is_winner": false,
+        "tmdb_id": 267192,
+        "tmdb_title": "天才捕手",
+        "tmdb_release_date": "2016-06-10"
+      },
+      {
+        "title": "长江图",
+        "link": "https://movie.douban.com/subject/7062596/",
+        "metas": "杨超",
+        "is_winner": false,
+        "tmdb_id": 378696,
+        "tmdb_title": "长江图",
+        "tmdb_release_date": "2016-02-15"
+      },
+      {
+        "title": "我是尼罗 Soy Nero",
+        "link": "https://movie.douban.com/subject/10527486/",
+        "metas": "拉菲·皮特斯",
+        "is_winner": false,
+        "tmdb_id": 378698,
+        "tmdb_title": "我是尼罗",
+        "tmdb_release_date": "2016-04-18"
+      },
+      {
+        "title": "公社 Kollektivet",
+        "link": "https://movie.douban.com/subject/24696729/",
+        "metas": "托马斯·温特伯格",
+        "is_winner": false,
+        "tmdb_id": 308409,
+        "tmdb_title": "公社",
+        "tmdb_release_date": "2016-01-14"
+      },
+      {
+        "title": "午夜逃亡 Midnight Special",
+        "link": "https://movie.douban.com/subject/24716033/",
+        "metas": "杰夫·尼克尔斯",
+        "is_winner": false,
+        "tmdb_id": 245703,
+        "tmdb_title": "午夜逃亡",
+        "tmdb_release_date": "2016-02-18"
+      },
+      {
+        "title": "柏林孤影 Alone in Berlin",
+        "link": "https://movie.douban.com/subject/25887265/",
+        "metas": "文森特·佩雷斯",
+        "is_winner": false,
+        "tmdb_id": 334522,
+        "tmdb_title": "柏林孤影",
+        "tmdb_release_date": "2016-02-15"
+      },
+      {
+        "title": "将来的事 L'avenir",
+        "link": "https://movie.douban.com/subject/26215216/",
+        "metas": "米娅·汉森-洛夫",
+        "is_winner": false,
+        "tmdb_id": 374465,
+        "tmdb_title": "将来的事",
+        "tmdb_release_date": "2016-04-06"
+      },
+      {
+        "title": "当我们17岁 Quand on a 17 ans",
+        "link": "https://movie.douban.com/subject/26309618/",
+        "metas": "安德烈·泰希内",
+        "is_winner": false,
+        "tmdb_id": 377154,
+        "tmdb_title": "当我们17岁",
+        "tmdb_release_date": "2016-02-27"
+      },
+      {
+        "title": "悲伤秘密的摇篮曲 Hele sa hiwagang hapis",
+        "link": "https://movie.douban.com/subject/26574568/",
+        "metas": "拉夫·迪亚兹",
+        "is_winner": false,
+        "tmdb_id": 377153,
+        "tmdb_title": "悲伤秘密的摇篮曲",
+        "tmdb_release_date": "2016-03-26"
+      },
+      {
+        "title": "失去贝拉特斯的波利斯 Boris sans Béatrice",
+        "link": "https://movie.douban.com/subject/26614205/",
+        "metas": "德尼·科泰",
+        "is_winner": false,
+        "tmdb_id": 372985,
+        "tmdb_title": "失去贝拉特斯的波利斯",
+        "tmdb_release_date": "2016-03-04"
+      },
+      {
+        "title": "零日 Zero Days",
+        "link": "https://movie.douban.com/subject/26684350/",
+        "metas": "亚历克斯·吉布尼",
+        "is_winner": false,
+        "tmdb_id": 380808,
+        "tmdb_title": "零日",
+        "tmdb_release_date": "2016-07-08"
+      },
+      {
+        "title": "死于萨拉热窝 Smrt u Sarajevu",
+        "link": "https://movie.douban.com/subject/26706064/",
+        "metas": "丹尼斯·塔诺维奇",
+        "is_winner": false,
+        "tmdb_id": 377156,
+        "tmdb_title": "死于萨拉热窝",
+        "tmdb_release_date": "2016-05-12"
+      },
+      {
+        "title": "战场来信 Cartas da Guerra",
+        "link": "https://movie.douban.com/subject/26706066/",
+        "metas": "范思澳",
+        "is_winner": false,
+        "tmdb_id": 377148,
+        "tmdb_title": "战场来信",
+        "tmdb_release_date": "2016-09-01"
+      },
+      {
+        "title": "爱情合众国 Zjednoczone Stany Miłosci",
+        "link": "https://movie.douban.com/subject/26706109/",
+        "metas": "托马斯·瓦希勒夫斯基",
+        "is_winner": false,
+        "tmdb_id": 377158,
+        "tmdb_title": "爱情合众国",
+        "tmdb_release_date": "2016-07-29"
+      },
+      {
+        "title": "赫迪 نحبك هدي",
+        "link": "https://movie.douban.com/subject/26712057/",
+        "metas": "穆罕默德·本·阿提亚",
+        "is_winner": false,
+        "tmdb_id": null,
+        "tmdb_title": null,
+        "tmdb_release_date": null
+      },
+      {
+        "title": "龙来了 اژدها وارد می‌شود!",
+        "link": "https://movie.douban.com/subject/26712792/",
+        "metas": "曼尼·夏希希",
+        "is_winner": false,
+        "tmdb_id": 377150,
+        "tmdb_title": "龙来了",
+        "tmdb_release_date": "2016-04-27"
+      },
+      {
+        "title": "二十四周 24 Wochen",
+        "link": "https://movie.douban.com/subject/26712793/",
+        "metas": "安娜·左拉·贝哈赫德",
+        "is_winner": false,
+        "tmdb_id": 378695,
+        "tmdb_title": "二十四周",
+        "tmdb_release_date": "2016-09-22"
+      }
+    ]
+  },
+  {
+    "session": 67,
+    "year": 2017,
+    "winner": "肉与灵 Teströl és lélekröl",
+    "nominees": [
+      "命运晚餐 The Dinner",
+      "糜骨之壤 Pokot",
+      "普通女人 Una mujer fantástica",
+      "希望的另一面 Toivon tuolla puolen",
+      "重返蒙托克 Rückkehr nach Montauk",
+      "安娜，我的爱 Ana, mon amour",
+      "酒会 The Party",
+      "独自在夜晚的海边 밤의 해변에서 혼자",
+      "科洛 Colo",
+      "明亮的夜 Helle Nächte",
+      "博伊斯 Beuys",
+      "菲丽希缇 Félicité",
+      "姜戈 Django",
+      "龙先生 ミスター・ロン",
+      "狂鼠 Wilde Maus",
+      "若阿金 Joaquim",
+      "大世界"
+    ],
+    "all_movies_data": [
+      {
+        "title": "肉与灵 Teströl és lélekröl",
+        "link": "https://movie.douban.com/subject/26935675/",
+        "metas": "伊尔蒂科·茵叶蒂",
+        "is_winner": true,
+        "tmdb_id": 436343,
+        "tmdb_title": "肉与灵",
+        "tmdb_release_date": "2017-03-02"
+      },
+      {
+        "title": "命运晚餐 The Dinner",
+        "link": "https://movie.douban.com/subject/25732071/",
+        "metas": "欧伦·穆弗曼",
+        "is_winner": false,
+        "tmdb_id": 401546,
+        "tmdb_title": "命运晚餐",
+        "tmdb_release_date": "2017-05-05"
+      },
+      {
+        "title": "糜骨之壤 Pokot",
+        "link": "https://movie.douban.com/subject/26304217/",
+        "metas": "阿格涅丝卡·霍兰",
+        "is_winner": false,
+        "tmdb_id": 432799,
+        "tmdb_title": "糜骨之壤",
+        "tmdb_release_date": "2017-02-24"
+      },
+      {
+        "title": "普通女人 Una mujer fantástica",
+        "link": "https://movie.douban.com/subject/26627754/",
+        "metas": "塞巴斯蒂安·莱里奥",
+        "is_winner": false,
+        "tmdb_id": 429191,
+        "tmdb_title": "普通女人",
+        "tmdb_release_date": "2017-04-06"
+      },
+      {
+        "title": "希望的另一面 Toivon tuolla puolen",
+        "link": "https://movie.douban.com/subject/26678509/",
+        "metas": "阿基·考里斯马基",
+        "is_winner": false,
+        "tmdb_id": 429199,
+        "tmdb_title": "希望的另一面",
+        "tmdb_release_date": "2017-02-03"
+      },
+      {
+        "title": "重返蒙托克 Rückkehr nach Montauk",
+        "link": "https://movie.douban.com/subject/26697685/",
+        "metas": "沃尔克·施隆多夫",
+        "is_winner": false,
+        "tmdb_id": 436352,
+        "tmdb_title": "重返蒙托克",
+        "tmdb_release_date": "2017-05-11"
+      },
+      {
+        "title": "安娜，我的爱 Ana, mon amour",
+        "link": "https://movie.douban.com/subject/26705627/",
+        "metas": "卡林·皮特·内策尔",
+        "is_winner": false,
+        "tmdb_id": 429732,
+        "tmdb_title": "安娜，我的爱",
+        "tmdb_release_date": "2017-03-03"
+      },
+      {
+        "title": "酒会 The Party",
+        "link": "https://movie.douban.com/subject/26710371/",
+        "metas": "莎莉·波特",
+        "is_winner": false,
+        "tmdb_id": 415401,
+        "tmdb_title": "酒会",
+        "tmdb_release_date": "2017-07-27"
+      },
+      {
+        "title": "独自在夜晚的海边 밤의 해변에서 혼자",
+        "link": "https://movie.douban.com/subject/26718282/",
+        "metas": "洪常秀",
+        "is_winner": false,
+        "tmdb_id": 434773,
+        "tmdb_title": "独自在夜晚的海边",
+        "tmdb_release_date": "2017-03-23"
+      },
+      {
+        "title": "科洛 Colo",
+        "link": "https://movie.douban.com/subject/26741538/",
+        "metas": "特雷莎·维拉芙尔德",
+        "is_winner": false,
+        "tmdb_id": 436339,
+        "tmdb_title": "科洛",
+        "tmdb_release_date": "2017-11-16"
+      },
+      {
+        "title": "明亮的夜 Helle Nächte",
+        "link": "https://movie.douban.com/subject/26746856/",
+        "metas": "托马斯·阿斯兰",
+        "is_winner": false,
+        "tmdb_id": 436345,
+        "tmdb_title": "明亮的夜",
+        "tmdb_release_date": "2017-04-12"
+      },
+      {
+        "title": "博伊斯 Beuys",
+        "link": "https://movie.douban.com/subject/26746857/",
+        "metas": "安德里斯·维利尔",
+        "is_winner": false,
+        "tmdb_id": 436336,
+        "tmdb_title": "博伊斯",
+        "tmdb_release_date": "2017-05-18"
+      },
+      {
+        "title": "菲丽希缇 Félicité",
+        "link": "https://movie.douban.com/subject/26757827/",
+        "metas": "阿兰·戈米斯",
+        "is_winner": false,
+        "tmdb_id": 436340,
+        "tmdb_title": "菲丽希缇",
+        "tmdb_release_date": "2017-03-29"
+      },
+      {
+        "title": "姜戈 Django",
+        "link": "https://movie.douban.com/subject/26948950/",
+        "metas": "艾蒂安·科马尔",
+        "is_winner": false,
+        "tmdb_id": 1357886,
+        "tmdb_title": "无可争议的姜戈",
+        "tmdb_release_date": "2024-04-22"
+      },
+      {
+        "title": "龙先生 ミスター・ロン",
+        "link": "https://movie.douban.com/subject/26952576/",
+        "metas": "萨布",
+        "is_winner": false,
+        "tmdb_id": 436350,
+        "tmdb_title": "龙先生",
+        "tmdb_release_date": "2017-04-22"
+      },
+      {
+        "title": "狂鼠 Wilde Maus",
+        "link": "https://movie.douban.com/subject/26952590/",
+        "metas": "约瑟夫·哈德",
+        "is_winner": false,
+        "tmdb_id": 424634,
+        "tmdb_title": "疯狂的老鼠",
+        "tmdb_release_date": "2017-02-17"
+      },
+      {
+        "title": "若阿金 Joaquim",
+        "link": "https://movie.douban.com/subject/26952972/",
+        "metas": "马赛罗·戈麦斯",
+        "is_winner": false,
+        "tmdb_id": null,
+        "tmdb_title": null,
+        "tmdb_release_date": null
+      },
+      {
+        "title": "大世界",
+        "link": "https://movie.douban.com/subject/26954003/",
+        "metas": "刘健",
+        "is_winner": false,
+        "tmdb_id": 755898,
+        "tmdb_title": "世界大战",
+        "tmdb_release_date": "2025-07-29"
+      }
+    ]
+  },
+  {
+    "session": 68,
+    "year": 2018,
+    "winner": "不要碰我 Nu mă atinge-mă",
+    "nominees": [
+      "我的兄弟叫罗伯特，他是一个大白痴 Mein Bruder heißt Robert und ist ein Idiot",
+      "犬之岛 Isle of Dogs",
+      "博物馆 Museo",
+      "过境 Transit",
+      "多甫拉托夫 Довлатов",
+      "祈祷 La prière",
+      "落难女子 Damsel",
+      "我的女儿 Figlia mia",
+      "面目 Twarz",
+      "别担心，他不会走远的 Don't Worry, He Won't Get Far on Foot",
+      "伊娃 Eva",
+      "货架之间 In den Gängen",
+      "恶魔时节 Ang Panahon ng Halimaw",
+      "我为楼狂 Toppen av ingenting",
+      "猪 خوک",
+      "女继承者 Las herederas",
+      "基伯龙三日 3 Tage in Quiberon",
+      "于特岛7月22日 Utøya 22. juli"
+    ],
+    "all_movies_data": [
+      {
+        "title": "不要碰我 Nu mă atinge-mă",
+        "link": "https://movie.douban.com/subject/26727889/",
+        "metas": "阿迪娜·平蒂列",
+        "is_winner": true,
+        "tmdb_id": 499155,
+        "tmdb_title": "不要碰我",
+        "tmdb_release_date": "2018-10-05"
+      },
+      {
+        "title": "我的兄弟叫罗伯特，他是一个大白痴 Mein Bruder heißt Robert und ist ein Idiot",
+        "link": "https://movie.douban.com/subject/26276928/",
+        "metas": "菲利普·格罗因",
+        "is_winner": false,
+        "tmdb_id": 493656,
+        "tmdb_title": "我的兄弟叫罗伯特，他是一个大白痴",
+        "tmdb_release_date": "2019-03-27"
+      },
+      {
+        "title": "犬之岛 Isle of Dogs",
+        "link": "https://movie.douban.com/subject/26640371/",
+        "metas": "韦斯·安德森",
+        "is_winner": false,
+        "tmdb_id": 399174,
+        "tmdb_title": "犬之岛",
+        "tmdb_release_date": "2018-03-23"
+      },
+      {
+        "title": "博物馆 Museo",
+        "link": "https://movie.douban.com/subject/26655154/",
+        "metas": "阿隆索·帕拉西奥斯",
+        "is_winner": false,
+        "tmdb_id": 218726,
+        "tmdb_title": "哆啦A梦：大雄的秘密道具博物馆",
+        "tmdb_release_date": "2013-03-09"
+      },
+      {
+        "title": "过境 Transit",
+        "link": "https://movie.douban.com/subject/26682880/",
+        "metas": "克里斯蒂安·佩措尔德",
+        "is_winner": false,
+        "tmdb_id": 1194769,
+        "tmdb_title": "枪过境",
+        "tmdb_release_date": "2015-01-01"
+      },
+      {
+        "title": "多甫拉托夫 Довлатов",
+        "link": "https://movie.douban.com/subject/26687238/",
+        "metas": "小阿列克谢·日耳曼",
+        "is_winner": false,
+        "tmdb_id": 493655,
+        "tmdb_title": "多甫拉托夫",
+        "tmdb_release_date": "2018-02-27"
+      },
+      {
+        "title": "祈祷 La prière",
+        "link": "https://movie.douban.com/subject/26772032/",
+        "metas": "塞德里克·康",
+        "is_winner": false,
+        "tmdb_id": 499086,
+        "tmdb_title": "祈祷",
+        "tmdb_release_date": "2018-03-21"
+      },
+      {
+        "title": "落难女子 Damsel",
+        "link": "https://movie.douban.com/subject/26835907/",
+        "metas": "大卫·泽尔纳",
+        "is_winner": false,
+        "tmdb_id": 414018,
+        "tmdb_title": "落难女子",
+        "tmdb_release_date": "2018-06-22"
+      },
+      {
+        "title": "我的女儿 Figlia mia",
+        "link": "https://movie.douban.com/subject/26892545/",
+        "metas": "劳拉·比斯普里",
+        "is_winner": false,
+        "tmdb_id": 492344,
+        "tmdb_title": "我的女儿",
+        "tmdb_release_date": "2018-02-22"
+      },
+      {
+        "title": "面目 Twarz",
+        "link": "https://movie.douban.com/subject/26894598/",
+        "metas": "玛乌戈扎塔·舒莫夫斯卡",
+        "is_winner": false,
+        "tmdb_id": 444400,
+        "tmdb_title": "面目",
+        "tmdb_release_date": "2018-03-15"
+      },
+      {
+        "title": "别担心，他不会走远的 Don't Worry, He Won't Get Far on Foot",
+        "link": "https://movie.douban.com/subject/26925164/",
+        "metas": "格斯·范·桑特",
+        "is_winner": false,
+        "tmdb_id": 443009,
+        "tmdb_title": "别担心，他不会走远的",
+        "tmdb_release_date": "2018-04-04"
+      },
+      {
+        "title": "伊娃 Eva",
+        "link": "https://movie.douban.com/subject/26926064/",
+        "metas": "伯努瓦·雅克",
+        "is_winner": false,
+        "tmdb_id": 893694,
+        "tmdb_title": "伊娃",
+        "tmdb_release_date": "2021-12-24"
+      },
+      {
+        "title": "货架之间 In den Gängen",
+        "link": "https://movie.douban.com/subject/26962614/",
+        "metas": "托马斯·施图伯",
+        "is_winner": false,
+        "tmdb_id": 493483,
+        "tmdb_title": "货架之间",
+        "tmdb_release_date": "2018-05-24"
+      },
+      {
+        "title": "恶魔时节 Ang Panahon ng Halimaw",
+        "link": "https://movie.douban.com/subject/27132710/",
+        "metas": "拉夫·迪亚兹",
+        "is_winner": false,
+        "tmdb_id": 497626,
+        "tmdb_title": "恶魔时节",
+        "tmdb_release_date": "2018-05-22"
+      },
+      {
+        "title": "我为楼狂 Toppen av ingenting",
+        "link": "https://movie.douban.com/subject/27621666/",
+        "metas": "阿克塞尔·彼得森",
+        "is_winner": false,
+        "tmdb_id": 497747,
+        "tmdb_title": "我为楼狂",
+        "tmdb_release_date": "2018-03-16"
+      },
+      {
+        "title": "猪 خوک",
+        "link": "https://movie.douban.com/subject/27668220/",
+        "metas": "曼尼·夏希希",
+        "is_winner": false,
+        "tmdb_id": 635731,
+        "tmdb_title": "疾速猪杀",
+        "tmdb_release_date": "2021-07-16"
+      },
+      {
+        "title": "女继承者 Las herederas",
+        "link": "https://movie.douban.com/subject/27668245/",
+        "metas": "马塞洛·马蒂内斯",
+        "is_winner": false,
+        "tmdb_id": 499152,
+        "tmdb_title": "女继承者",
+        "tmdb_release_date": "2018-03-15"
+      },
+      {
+        "title": "基伯龙三日 3 Tage in Quiberon",
+        "link": "https://movie.douban.com/subject/27737950/",
+        "metas": "艾米莉·阿特夫",
+        "is_winner": false,
+        "tmdb_id": null,
+        "tmdb_title": null,
+        "tmdb_release_date": null
+      },
+      {
+        "title": "于特岛7月22日 Utøya 22. juli",
+        "link": "https://movie.douban.com/subject/30141329/",
+        "metas": "埃里克·普派",
+        "is_winner": false,
+        "tmdb_id": 500006,
+        "tmdb_title": "于特岛7月22日",
+        "tmdb_release_date": "2018-03-09"
+      }
+    ]
+  },
+  {
+    "session": 69,
+    "year": 2019,
+    "winner": "同义词 מילים נרדפות",
+    "nominees": [
+      "地久天长",
+      "外出偷马 Ut og stjæle hester",
+      "我离家了，但…… Ich war zuhause, aber…",
+      "陌生人的善意 The Kindness of Strangers",
+      "金手套 Der Goldene Handschuh",
+      "感谢上帝 Grâce à Dieu",
+      "琼斯先生 Mr. Jones",
+      "伊莉莎与玛瑟拉 Elisa y Marcela",
+      "一秒钟",
+      "鬼镇事件簿 Répertoire des villes disparues",
+      "脚下的土地 Der Boden unter den Füßen",
+      "三姐妹的故事 Kız Kardeşler",
+      "上帝存在，她叫佩特鲁尼娅 Господ постои, името ѝ е Петрунија",
+      "恐龙蛋 Öndög",
+      "少年黑手党 La Paranza dei Bambini",
+      "系统破坏者 Systemsprenger"
+    ],
+    "all_movies_data": [
+      {
+        "title": "同义词 מילים נרדפות",
+        "link": "https://movie.douban.com/subject/27047918/",
+        "metas": "那达夫·拉皮德",
+        "is_winner": true,
+        "tmdb_id": 501590,
+        "tmdb_title": "同义词",
+        "tmdb_release_date": "2019-02-28"
+      },
+      {
+        "title": "地久天长",
+        "link": "https://movie.douban.com/subject/26715636/",
+        "metas": "王小帅",
+        "is_winner": false,
+        "tmdb_id": 493899,
+        "tmdb_title": "地久天长",
+        "tmdb_release_date": "2019-03-15"
+      },
+      {
+        "title": "外出偷马 Ut og stjæle hester",
+        "link": "https://movie.douban.com/subject/26756220/",
+        "metas": "汉斯·皮特·莫朗",
+        "is_winner": false,
+        "tmdb_id": 512603,
+        "tmdb_title": "外出偷马",
+        "tmdb_release_date": "2019-03-08"
+      },
+      {
+        "title": "我离家了，但…… Ich war zuhause, aber…",
+        "link": "https://movie.douban.com/subject/26840354/",
+        "metas": "安格拉·夏娜莱克",
+        "is_winner": false,
+        "tmdb_id": 500895,
+        "tmdb_title": "我离家了，但……",
+        "tmdb_release_date": "2019-03-28"
+      },
+      {
+        "title": "陌生人的善意 The Kindness of Strangers",
+        "link": "https://movie.douban.com/subject/26975019/",
+        "metas": "罗勒·莎菲",
+        "is_winner": false,
+        "tmdb_id": 520390,
+        "tmdb_title": "陌生人的善意",
+        "tmdb_release_date": "2019-12-12"
+      },
+      {
+        "title": "金手套 Der Goldene Handschuh",
+        "link": "https://movie.douban.com/subject/27205132/",
+        "metas": "法提赫·阿金",
+        "is_winner": false,
+        "tmdb_id": 505706,
+        "tmdb_title": "金手套",
+        "tmdb_release_date": "2019-02-21"
+      },
+      {
+        "title": "感谢上帝 Grâce à Dieu",
+        "link": "https://movie.douban.com/subject/30162055/",
+        "metas": "弗朗索瓦·欧容",
+        "is_winner": false,
+        "tmdb_id": 509364,
+        "tmdb_title": "感谢上帝",
+        "tmdb_release_date": "2019-02-20"
+      },
+      {
+        "title": "琼斯先生 Mr. Jones",
+        "link": "https://movie.douban.com/subject/30167512/",
+        "metas": "阿格涅丝卡·霍兰",
+        "is_winner": false,
+        "tmdb_id": 174678,
+        "tmdb_title": "琼斯先生",
+        "tmdb_release_date": "2013-05-02"
+      },
+      {
+        "title": "伊莉莎与玛瑟拉 Elisa y Marcela",
+        "link": "https://movie.douban.com/subject/30251948/",
+        "metas": "伊莎贝尔·科赛特",
+        "is_winner": false,
+        "tmdb_id": null,
+        "tmdb_title": null,
+        "tmdb_release_date": null
+      },
+      {
+        "title": "一秒钟",
+        "link": "https://movie.douban.com/subject/30257787/",
+        "metas": "张艺谋",
+        "is_winner": false,
+        "tmdb_id": 575089,
+        "tmdb_title": "一秒钟",
+        "tmdb_release_date": "2020-11-27"
+      },
+      {
+        "title": "鬼镇事件簿 Répertoire des villes disparues",
+        "link": "https://movie.douban.com/subject/30359970/",
+        "metas": "德尼·科泰",
+        "is_winner": false,
+        "tmdb_id": 568790,
+        "tmdb_title": "鬼镇事件簿",
+        "tmdb_release_date": "2019-02-15"
+      },
+      {
+        "title": "脚下的土地 Der Boden unter den Füßen",
+        "link": "https://movie.douban.com/subject/30404238/",
+        "metas": "玛丽·克鲁泽",
+        "is_winner": false,
+        "tmdb_id": 568789,
+        "tmdb_title": "脚下的土地",
+        "tmdb_release_date": "2019-03-21"
+      },
+      {
+        "title": "三姐妹的故事 Kız Kardeşler",
+        "link": "https://movie.douban.com/subject/30404246/",
+        "metas": "埃敏·阿尔柏",
+        "is_winner": false,
+        "tmdb_id": 539186,
+        "tmdb_title": "三姐妹的故事",
+        "tmdb_release_date": "2019-08-30"
+      },
+      {
+        "title": "上帝存在，她叫佩特鲁尼娅 Господ постои, името ѝ е Петрунија",
+        "link": "https://movie.douban.com/subject/30427460/",
+        "metas": "缇奥娜·斯特鲁加·米泰夫斯卡",
+        "is_winner": false,
+        "tmdb_id": 574434,
+        "tmdb_title": "上帝存在，她叫佩特鲁尼娅",
+        "tmdb_release_date": "2019-05-01"
+      },
+      {
+        "title": "恐龙蛋 Öndög",
+        "link": "https://movie.douban.com/subject/30427473/",
+        "metas": "王全安",
+        "is_winner": false,
+        "tmdb_id": 574067,
+        "tmdb_title": "恐龙蛋",
+        "tmdb_release_date": "2019-10-03"
+      },
+      {
+        "title": "少年黑手党 La Paranza dei Bambini",
+        "link": "https://movie.douban.com/subject/30427478/",
+        "metas": "克劳迪欧·吉瓦内斯",
+        "is_winner": false,
+        "tmdb_id": 574436,
+        "tmdb_title": "少年黑手党",
+        "tmdb_release_date": "2019-02-14"
+      },
+      {
+        "title": "系统破坏者 Systemsprenger",
+        "link": "https://movie.douban.com/subject/30427480/",
+        "metas": "诺拉·芬沙伊德",
+        "is_winner": false,
+        "tmdb_id": 567410,
+        "tmdb_title": "系统破坏者",
+        "tmdb_release_date": "2019-09-19"
+      }
+    ]
+  },
+  {
+    "session": 70,
+    "year": 2020,
+    "winner": "无邪 شیطان وجود ندارد",
+    "nominees": [
+      "未曾走过的路 The Roads Not Taken",
+      "西伯利亚 Siberia",
+      "眼泪之盐 Le sel des larmes",
+      "我想藏起来 Volevo nascondermi",
+      "第一头牛 First Cow",
+      "柏林亚历山大广场 Berlin Alexanderplatz",
+      "从不，很少，有时，总是 Never Rarely Sometimes Always",
+      "温蒂妮 Undine",
+      "日子",
+      "删除历史 Effacer l’historique",
+      "所有死者 Todos os Mortos",
+      "逃走的女人 도망친 여자",
+      "我的妹妹 Schwesterlein",
+      "辐射 Irradiés",
+      "烂故事 Favolacce",
+      "入侵者 El prófugo",
+      "列夫·朗道：娜塔莎 DAU. Natasha"
+    ],
+    "all_movies_data": [
+      {
+        "title": "无邪 شیطان وجود ندارد",
+        "link": "https://movie.douban.com/subject/34958728/",
+        "metas": "穆罕默德·拉索罗夫",
+        "is_winner": true,
+        "tmdb_id": 667935,
+        "tmdb_title": "无邪",
+        "tmdb_release_date": "2020-10-22"
+      },
+      {
+        "title": "未曾走过的路 The Roads Not Taken",
+        "link": "https://movie.douban.com/subject/26710372/",
+        "metas": "莎莉·波特",
+        "is_winner": false,
+        "tmdb_id": 567714,
+        "tmdb_title": "未曾走过的路",
+        "tmdb_release_date": "2020-03-13"
+      },
+      {
+        "title": "西伯利亚 Siberia",
+        "link": "https://movie.douban.com/subject/26712126/",
+        "metas": "阿贝尔·费拉拉",
+        "is_winner": false,
+        "tmdb_id": 446574,
+        "tmdb_title": "西伯利亚",
+        "tmdb_release_date": "2020-07-02"
+      },
+      {
+        "title": "眼泪之盐 Le sel des larmes",
+        "link": "https://movie.douban.com/subject/26979204/",
+        "metas": "菲利普·加瑞尔",
+        "is_winner": false,
+        "tmdb_id": 574094,
+        "tmdb_title": "眼泪之盐",
+        "tmdb_release_date": "2020-10-14"
+      },
+      {
+        "title": "我想藏起来 Volevo nascondermi",
+        "link": "https://movie.douban.com/subject/30170195/",
+        "metas": "乔治奥·迪里蒂",
+        "is_winner": false,
+        "tmdb_id": 608317,
+        "tmdb_title": "我想藏起来",
+        "tmdb_release_date": "2020-02-27"
+      },
+      {
+        "title": "第一头牛 First Cow",
+        "link": "https://movie.douban.com/subject/30368608/",
+        "metas": "凯莉·莱卡特",
+        "is_winner": false,
+        "tmdb_id": 558582,
+        "tmdb_title": "第一头牛",
+        "tmdb_release_date": "2020-03-06"
+      },
+      {
+        "title": "柏林亚历山大广场 Berlin Alexanderplatz",
+        "link": "https://movie.douban.com/subject/30421637/",
+        "metas": "布尔汗·奎巴尼",
+        "is_winner": false,
+        "tmdb_id": 575659,
+        "tmdb_title": "柏林亚历山大广场",
+        "tmdb_release_date": "2020-06-25"
+      },
+      {
+        "title": "从不，很少，有时，总是 Never Rarely Sometimes Always",
+        "link": "https://movie.douban.com/subject/33411505/",
+        "metas": "伊丽莎·希特曼",
+        "is_winner": false,
+        "tmdb_id": 595671,
+        "tmdb_title": "从不，很少，有时，总是",
+        "tmdb_release_date": "2020-03-13"
+      },
+      {
+        "title": "温蒂妮 Undine",
+        "link": "https://movie.douban.com/subject/34603816/",
+        "metas": "克里斯蒂安·佩措尔德",
+        "is_winner": false,
+        "tmdb_id": 615761,
+        "tmdb_title": "温蒂妮",
+        "tmdb_release_date": "2020-07-01"
+      },
+      {
+        "title": "日子",
+        "link": "https://movie.douban.com/subject/34868361/",
+        "metas": "蔡明亮",
+        "is_winner": false,
+        "tmdb_id": 662400,
+        "tmdb_title": "日子",
+        "tmdb_release_date": "2021-05-21"
+      },
+      {
+        "title": "删除历史 Effacer l’historique",
+        "link": "https://movie.douban.com/subject/34882859/",
+        "metas": "古斯塔弗·科文",
+        "is_winner": false,
+        "tmdb_id": 659699,
+        "tmdb_title": "删除历史",
+        "tmdb_release_date": "2020-08-26"
+      },
+      {
+        "title": "所有死者 Todos os Mortos",
+        "link": "https://movie.douban.com/subject/34927016/",
+        "metas": "马可·杜特拉",
+        "is_winner": false,
+        "tmdb_id": 89536,
+        "tmdb_title": "所有死者",
+        "tmdb_release_date": "2011-01-03"
+      },
+      {
+        "title": "逃走的女人 도망친 여자",
+        "link": "https://movie.douban.com/subject/34958725/",
+        "metas": "洪常秀",
+        "is_winner": false,
+        "tmdb_id": 662401,
+        "tmdb_title": "逃走的女人",
+        "tmdb_release_date": "2020-09-17"
+      },
+      {
+        "title": "我的妹妹 Schwesterlein",
+        "link": "https://movie.douban.com/subject/34958733/",
+        "metas": "韦罗妮克·雷蒙",
+        "is_winner": false,
+        "tmdb_id": 659967,
+        "tmdb_title": "我的妹妹",
+        "tmdb_release_date": "2020-09-03"
+      },
+      {
+        "title": "辐射 Irradiés",
+        "link": "https://movie.douban.com/subject/34958736/",
+        "metas": "潘礼德",
+        "is_winner": false,
+        "tmdb_id": 667936,
+        "tmdb_title": "辐射",
+        "tmdb_release_date": "2022-01-26"
+      },
+      {
+        "title": "烂故事 Favolacce",
+        "link": "https://movie.douban.com/subject/34958737/",
+        "metas": "达米亚诺·迪诺森佐",
+        "is_winner": false,
+        "tmdb_id": 614292,
+        "tmdb_title": "烂故事",
+        "tmdb_release_date": "2020-06-15"
+      },
+      {
+        "title": "入侵者 El prófugo",
+        "link": "https://movie.douban.com/subject/34958738/",
+        "metas": "娜塔莉娅·梅特",
+        "is_winner": false,
+        "tmdb_id": 667757,
+        "tmdb_title": "入侵者",
+        "tmdb_release_date": "2021-07-30"
+      },
+      {
+        "title": "列夫·朗道：娜塔莎 DAU. Natasha",
+        "link": "https://movie.douban.com/subject/34960201/",
+        "metas": "伊利亚·赫尔扎诺夫斯基",
+        "is_winner": false,
+        "tmdb_id": 667995,
+        "tmdb_title": "列夫·朗道：娜塔莎",
+        "tmdb_release_date": "2020-02-26"
+      }
+    ]
+  },
+  {
+    "session": 71,
+    "year": 2021,
+    "winner": "倒霉性爱，发狂黄片 Babardeală cu bucluc sau porno balamuc",
+    "nominees": [
+      "回忆之盒 الدفاتر",
+      "邻家 Nebenan",
+      "信天翁 Albatros",
+      "自然光线 Természetes fény",
+      "法比安 Fabian oder Der Gang vor die Hunde",
+      "我是你的人 Ich bin dein Mensch",
+      "小妈妈 Petite maman",
+      "引见 인트로덕션",
+      "偶然与想象 偶然と想像",
+      "白奶牛之歌 قصیده گاو سفید",
+      "森林随处可见 Rengeteg - Mindenhol látlak",
+      "巴赫曼先生和他的学生 Herr Bachmann und seine Klasse",
+      "一部警察电影 Una Película de Policías",
+      "当我们仰望天空时看见什么？ რას ვხედავთ, როდესაც ცას ვუყურებთ?"
+    ],
+    "all_movies_data": [
+      {
+        "title": "倒霉性爱，发狂黄片 Babardeală cu bucluc sau porno balamuc",
+        "link": "https://movie.douban.com/subject/35242942/",
+        "metas": "拉杜·裘德",
+        "is_winner": true,
+        "tmdb_id": 790496,
+        "tmdb_title": "倒霉性爱，发狂黄片",
+        "tmdb_release_date": "2021-04-29"
+      },
+      {
+        "title": "回忆之盒 الدفاتر",
+        "link": "https://movie.douban.com/subject/26794442/",
+        "metas": "哈利勒·乔埃格",
+        "is_winner": false,
+        "tmdb_id": null,
+        "tmdb_title": null,
+        "tmdb_release_date": null
+      },
+      {
+        "title": "邻家 Nebenan",
+        "link": "https://movie.douban.com/subject/34844497/",
+        "metas": "丹尼尔·布鲁赫",
+        "is_winner": false,
+        "tmdb_id": 681349,
+        "tmdb_title": "邻家",
+        "tmdb_release_date": "2021-07-15"
+      },
+      {
+        "title": "信天翁 Albatros",
+        "link": "https://movie.douban.com/subject/34856442/",
+        "metas": "泽维尔·布瓦",
+        "is_winner": false,
+        "tmdb_id": 1189478,
+        "tmdb_title": "信天翁与企鹅",
+        "tmdb_release_date": "2018-12-16"
+      },
+      {
+        "title": "自然光线 Természetes fény",
+        "link": "https://movie.douban.com/subject/34953816/",
+        "metas": "迪奈施·纳吉",
+        "is_winner": false,
+        "tmdb_id": 669661,
+        "tmdb_title": "自然光线",
+        "tmdb_release_date": "2021-09-16"
+      },
+      {
+        "title": "法比安 Fabian oder Der Gang vor die Hunde",
+        "link": "https://movie.douban.com/subject/35158375/",
+        "metas": "多米尼克·格拉夫",
+        "is_winner": false,
+        "tmdb_id": 620498,
+        "tmdb_title": "法比安",
+        "tmdb_release_date": "2021-08-05"
+      },
+      {
+        "title": "我是你的人 Ich bin dein Mensch",
+        "link": "https://movie.douban.com/subject/35202365/",
+        "metas": "玛丽亚·施拉德",
+        "is_winner": false,
+        "tmdb_id": 795813,
+        "tmdb_title": "我是你的人",
+        "tmdb_release_date": "2021-07-01"
+      },
+      {
+        "title": "小妈妈 Petite maman",
+        "link": "https://movie.douban.com/subject/35225859/",
+        "metas": "瑟琳·席安玛",
+        "is_winner": false,
+        "tmdb_id": 749004,
+        "tmdb_title": "小妈妈",
+        "tmdb_release_date": "2021-06-02"
+      },
+      {
+        "title": "引见 인트로덕션",
+        "link": "https://movie.douban.com/subject/35360295/",
+        "metas": "洪常秀",
+        "is_winner": false,
+        "tmdb_id": 795797,
+        "tmdb_title": "引见",
+        "tmdb_release_date": "2021-05-27"
+      },
+      {
+        "title": "偶然与想象 偶然と想像",
+        "link": "https://movie.douban.com/subject/35360296/",
+        "metas": "滨口龙介",
+        "is_winner": false,
+        "tmdb_id": 795811,
+        "tmdb_title": "偶然与想象",
+        "tmdb_release_date": "2021-04-11"
+      },
+      {
+        "title": "白奶牛之歌 قصیده گاو سفید",
+        "link": "https://movie.douban.com/subject/35360559/",
+        "metas": "贝塔什·萨奈哈",
+        "is_winner": false,
+        "tmdb_id": 669401,
+        "tmdb_title": "白奶牛之歌",
+        "tmdb_release_date": "2021-10-21"
+      },
+      {
+        "title": "森林随处可见 Rengeteg - Mindenhol látlak",
+        "link": "https://movie.douban.com/subject/35360563/",
+        "metas": "本尼德克·菲利格夫",
+        "is_winner": false,
+        "tmdb_id": 795818,
+        "tmdb_title": "森林随处可见",
+        "tmdb_release_date": "2022-01-25"
+      },
+      {
+        "title": "巴赫曼先生和他的学生 Herr Bachmann und seine Klasse",
+        "link": "https://movie.douban.com/subject/35360564/",
+        "metas": "玛利亚·施佩特",
+        "is_winner": false,
+        "tmdb_id": 795812,
+        "tmdb_title": "巴赫曼先生和他的学生",
+        "tmdb_release_date": "2021-09-16"
+      },
+      {
+        "title": "一部警察电影 Una Película de Policías",
+        "link": "https://movie.douban.com/subject/35360565/",
+        "metas": "阿隆索·帕拉西奥斯",
+        "is_winner": false,
+        "tmdb_id": null,
+        "tmdb_title": null,
+        "tmdb_release_date": null
+      },
+      {
+        "title": "当我们仰望天空时看见什么？ რას ვხედავთ, როდესაც ცას ვუყურებთ?",
+        "link": "https://movie.douban.com/subject/35360566/",
+        "metas": "亚历山大·科贝里泽",
+        "is_winner": false,
+        "tmdb_id": 795815,
+        "tmdb_title": "当我们仰望天空时看见什么？",
+        "tmdb_release_date": "2021-11-12"
+      }
+    ]
+  },
+  {
+    "session": 72,
+    "year": 2022,
+    "winner": "阿尔卡拉斯 Alcarràs",
+    "nominees": [
+      "里米尼 Rimini",
+      "珍妮热线 Call Jane",
+      "隐入尘烟",
+      "线 La ligne",
+      "三个冬天 Drii Winter",
+      "双刃剑 Avec amour et acharnement",
+      "库尔纳兹诉小布什 Rabiye Kurnaz gegen George W. Bush",
+      "莱奥诺拉的告别 Leonora addio",
+      "巴黎夜旅人 Les Passagers de la nuit",
+      "一年，一夜 Un año, una noche",
+      "彼得·冯·康德 Peter von Kant",
+      "宝石长袍 Manto de gemas",
+      "像这样的夏天 Un été comme ça",
+      "AEIOU：爱之字母表 A E I O U – Das schnelle Alphabet der Liebe",
+      "一切安好 Everything Will Be OK",
+      "小说家的电影 소설가의 영화",
+      "过去，如今和之后 Before, Now & Then"
+    ],
+    "all_movies_data": [
+      {
+        "title": "阿尔卡拉斯 Alcarràs",
+        "link": "https://movie.douban.com/subject/35038640/",
+        "metas": "卡拉·西蒙",
+        "is_winner": true,
+        "tmdb_id": 804251,
+        "tmdb_title": "阿尔卡拉斯",
+        "tmdb_release_date": "2022-04-29"
+      },
+      {
+        "title": "里米尼 Rimini",
+        "link": "https://movie.douban.com/subject/26708178/",
+        "metas": "尤里西·塞德尔",
+        "is_winner": false,
+        "tmdb_id": 82080,
+        "tmdb_title": "里米尼，里米尼",
+        "tmdb_release_date": "1987-02-27"
+      },
+      {
+        "title": "珍妮热线 Call Jane",
+        "link": "https://movie.douban.com/subject/27146798/",
+        "metas": "菲丽丝·奈吉",
+        "is_winner": false,
+        "tmdb_id": 579496,
+        "tmdb_title": "珍妮热线",
+        "tmdb_release_date": "2022-10-27"
+      },
+      {
+        "title": "隐入尘烟",
+        "link": "https://movie.douban.com/subject/35131346/",
+        "metas": "李睿珺",
+        "is_winner": false,
+        "tmdb_id": 928720,
+        "tmdb_title": "隐入尘烟",
+        "tmdb_release_date": "2022-07-08"
+      },
+      {
+        "title": "线 La ligne",
+        "link": "https://movie.douban.com/subject/35136912/",
+        "metas": "乌苏拉·梅尔",
+        "is_winner": false,
+        "tmdb_id": 926332,
+        "tmdb_title": "线",
+        "tmdb_release_date": "2023-01-11"
+      },
+      {
+        "title": "三个冬天 Drii Winter",
+        "link": "https://movie.douban.com/subject/35173728/",
+        "metas": "米夏埃尔·科赫",
+        "is_winner": false,
+        "tmdb_id": 728499,
+        "tmdb_title": "三个冬天",
+        "tmdb_release_date": "2022-08-12"
+      },
+      {
+        "title": "双刃剑 Avec amour et acharnement",
+        "link": "https://movie.douban.com/subject/35268858/",
+        "metas": "克莱尔·德尼",
+        "is_winner": false,
+        "tmdb_id": 768757,
+        "tmdb_title": "双刃剑",
+        "tmdb_release_date": "2022-07-08"
+      },
+      {
+        "title": "库尔纳兹诉小布什 Rabiye Kurnaz gegen George W. Bush",
+        "link": "https://movie.douban.com/subject/35320181/",
+        "metas": "安德里亚斯·德里森",
+        "is_winner": false,
+        "tmdb_id": 915960,
+        "tmdb_title": "库尔纳兹诉小布什",
+        "tmdb_release_date": "2022-04-28"
+      },
+      {
+        "title": "莱奥诺拉的告别 Leonora addio",
+        "link": "https://movie.douban.com/subject/35320636/",
+        "metas": "保罗·塔维亚尼",
+        "is_winner": false,
+        "tmdb_id": 822177,
+        "tmdb_title": "莱奥诺拉的告别",
+        "tmdb_release_date": "2022-02-17"
+      },
+      {
+        "title": "巴黎夜旅人 Les Passagers de la nuit",
+        "link": "https://movie.douban.com/subject/35354759/",
+        "metas": "米夏埃尔·艾斯",
+        "is_winner": false,
+        "tmdb_id": 895659,
+        "tmdb_title": "巴黎夜旅人",
+        "tmdb_release_date": "2022-05-04"
+      },
+      {
+        "title": "一年，一夜 Un año, una noche",
+        "link": "https://movie.douban.com/subject/35384429/",
+        "metas": "伊萨基·拉库埃斯塔",
+        "is_winner": false,
+        "tmdb_id": 769466,
+        "tmdb_title": "一年,一夜",
+        "tmdb_release_date": "2022-10-21"
+      },
+      {
+        "title": "彼得·冯·康德 Peter von Kant",
+        "link": "https://movie.douban.com/subject/35404018/",
+        "metas": "弗朗索瓦·欧容",
+        "is_winner": false,
+        "tmdb_id": 807862,
+        "tmdb_title": "彼得·冯·康德",
+        "tmdb_release_date": "2022-07-06"
+      },
+      {
+        "title": "宝石长袍 Manto de gemas",
+        "link": "https://movie.douban.com/subject/35459087/",
+        "metas": "娜塔莉亚·洛佩兹·加拉多",
+        "is_winner": false,
+        "tmdb_id": 928718,
+        "tmdb_title": "宝石长袍",
+        "tmdb_release_date": "2023-08-03"
+      },
+      {
+        "title": "像这样的夏天 Un été comme ça",
+        "link": "https://movie.douban.com/subject/35558634/",
+        "metas": "德尼·科泰",
+        "is_winner": false,
+        "tmdb_id": 925181,
+        "tmdb_title": "像这样的夏天",
+        "tmdb_release_date": "2022-07-19"
+      },
+      {
+        "title": "AEIOU：爱之字母表 A E I O U – Das schnelle Alphabet der Liebe",
+        "link": "https://movie.douban.com/subject/35732512/",
+        "metas": "尼科莱特·克雷比茨",
+        "is_winner": false,
+        "tmdb_id": 928709,
+        "tmdb_title": "AEIOU：爱之字母表",
+        "tmdb_release_date": "2022-05-05"
+      },
+      {
+        "title": "一切安好 Everything Will Be OK",
+        "link": "https://movie.douban.com/subject/35733451/",
+        "metas": "潘礼德",
+        "is_winner": false,
+        "tmdb_id": 32532,
+        "tmdb_title": "一切安好",
+        "tmdb_release_date": "2006-01-10"
+      },
+      {
+        "title": "小说家的电影 소설가의 영화",
+        "link": "https://movie.douban.com/subject/35743103/",
+        "metas": "洪常秀",
+        "is_winner": false,
+        "tmdb_id": 928713,
+        "tmdb_title": "小说家的电影",
+        "tmdb_release_date": "2022-04-21"
+      },
+      {
+        "title": "过去，如今和之后 Before, Now & Then",
+        "link": "https://movie.douban.com/subject/35743120/",
+        "metas": "卡米拉·安迪妮",
+        "is_winner": false,
+        "tmdb_id": 859933,
+        "tmdb_title": "过去，如今和之后",
+        "tmdb_release_date": "2022-07-08"
+      }
+    ]
+  },
+  {
+    "session": 73,
+    "year": 2023,
+    "winner": "坚毅之旅 Sur l'Adamant",
+    "nominees": [
+      "艺术学院1994",
+      "音乐 Music",
+      "过往人生 Past Lives",
+      "迪斯科男孩 Disco Boy",
+      "红色天空 Roter Himmel",
+      "铃芽之旅 すずめの戸締まり",
+      "白塔之光",
+      "巴赫曼：沙漠之旅 Ingeborg Bachmann – Reise in die Wüste",
+      "男气管制 Manodrome",
+      "两万种蜜蜂 20.000 especies de abejas",
+      "勉强度日 Mal Viver",
+      "北斗七星 Le grand chariot",
+      "有一天我们会告诉彼此一切 Irgendwann werden wir uns alles erzählen",
+      "善良的生存 The Survival of Kindness",
+      "直到夜尽头 Bis ans Ende der Nacht",
+      "黑莓传奇 BlackBerry",
+      "图腾 Tótem",
+      "地狱边缘 Limbo"
+    ],
+    "all_movies_data": [
+      {
+        "title": "坚毅之旅 Sur l'Adamant",
+        "link": "https://movie.douban.com/subject/35322048/",
+        "metas": "尼古拉·菲利伯特",
+        "is_winner": true,
+        "tmdb_id": 1070449,
+        "tmdb_title": "坚毅之旅",
+        "tmdb_release_date": "2023-03-22"
+      },
+      {
+        "title": "艺术学院1994",
+        "link": "https://movie.douban.com/subject/28510051/",
+        "metas": "刘健",
+        "is_winner": false,
+        "tmdb_id": 954905,
+        "tmdb_title": "艺术学院1994",
+        "tmdb_release_date": "2025-06-21"
+      },
+      {
+        "title": "音乐 Music",
+        "link": "https://movie.douban.com/subject/34786765/",
+        "metas": "安格拉·夏娜莱克",
+        "is_winner": false,
+        "tmdb_id": 392974,
+        "tmdb_title": "音乐",
+        "tmdb_release_date": "2023-12-06"
+      },
+      {
+        "title": "过往人生 Past Lives",
+        "link": "https://movie.douban.com/subject/34963356/",
+        "metas": "席琳·宋",
+        "is_winner": false,
+        "tmdb_id": 666277,
+        "tmdb_title": "过往人生",
+        "tmdb_release_date": "2023-06-02"
+      },
+      {
+        "title": "迪斯科男孩 Disco Boy",
+        "link": "https://movie.douban.com/subject/35172481/",
+        "metas": "贾科莫·阿布鲁泽塞",
+        "is_winner": false,
+        "tmdb_id": 922830,
+        "tmdb_title": "迪斯科男孩",
+        "tmdb_release_date": "2023-03-09"
+      },
+      {
+        "title": "红色天空 Roter Himmel",
+        "link": "https://movie.douban.com/subject/35221425/",
+        "metas": "克里斯蒂安·佩措尔德",
+        "is_winner": false,
+        "tmdb_id": 900379,
+        "tmdb_title": "红色天空",
+        "tmdb_release_date": "2023-04-20"
+      },
+      {
+        "title": "铃芽之旅 すずめの戸締まり",
+        "link": "https://movie.douban.com/subject/35371261/",
+        "metas": "新海诚",
+        "is_winner": false,
+        "tmdb_id": 916224,
+        "tmdb_title": "铃芽之旅",
+        "tmdb_release_date": "2022-11-11"
+      },
+      {
+        "title": "白塔之光",
+        "link": "https://movie.douban.com/subject/35424892/",
+        "metas": "张律",
+        "is_winner": false,
+        "tmdb_id": 1075840,
+        "tmdb_title": "白塔之光",
+        "tmdb_release_date": "2023-10-27"
+      },
+      {
+        "title": "巴赫曼：沙漠之旅 Ingeborg Bachmann – Reise in die Wüste",
+        "link": "https://movie.douban.com/subject/35496300/",
+        "metas": "玛加蕾特·冯·特罗塔",
+        "is_winner": false,
+        "tmdb_id": 978580,
+        "tmdb_title": "巴赫曼：沙漠之旅",
+        "tmdb_release_date": "2023-06-09"
+      },
+      {
+        "title": "男气管制 Manodrome",
+        "link": "https://movie.douban.com/subject/35505261/",
+        "metas": "约翰·特伦戈夫",
+        "is_winner": false,
+        "tmdb_id": 843942,
+        "tmdb_title": "男气管制",
+        "tmdb_release_date": "2023-11-10"
+      },
+      {
+        "title": "两万种蜜蜂 20.000 especies de abejas",
+        "link": "https://movie.douban.com/subject/35519078/",
+        "metas": "埃斯蒂巴利斯·乌雷索拉·索拉格伦",
+        "is_winner": false,
+        "tmdb_id": 1053600,
+        "tmdb_title": "两万种蜜蜂",
+        "tmdb_release_date": "2023-04-21"
+      },
+      {
+        "title": "勉强度日 Mal Viver",
+        "link": "https://movie.douban.com/subject/35545596/",
+        "metas": "若昂·康尼",
+        "is_winner": false,
+        "tmdb_id": 1092099,
+        "tmdb_title": "勉强度日",
+        "tmdb_release_date": "2023-05-07"
+      },
+      {
+        "title": "北斗七星 Le grand chariot",
+        "link": "https://movie.douban.com/subject/35622280/",
+        "metas": "菲利普·加瑞尔",
+        "is_winner": false,
+        "tmdb_id": 920767,
+        "tmdb_title": "北斗七星",
+        "tmdb_release_date": "2023-03-08"
+      },
+      {
+        "title": "有一天我们会告诉彼此一切 Irgendwann werden wir uns alles erzählen",
+        "link": "https://movie.douban.com/subject/35707930/",
+        "metas": "艾米莉·阿特夫",
+        "is_winner": false,
+        "tmdb_id": 1045205,
+        "tmdb_title": "有一天我们会告诉彼此一切",
+        "tmdb_release_date": "2023-04-13"
+      },
+      {
+        "title": "善良的生存 The Survival of Kindness",
+        "link": "https://movie.douban.com/subject/35874078/",
+        "metas": "洛夫·德·希尔",
+        "is_winner": false,
+        "tmdb_id": 1024707,
+        "tmdb_title": "善良的生存",
+        "tmdb_release_date": "2023-05-04"
+      },
+      {
+        "title": "直到夜尽头 Bis ans Ende der Nacht",
+        "link": "https://movie.douban.com/subject/35991783/",
+        "metas": "克里斯托夫·霍赫豪斯勒",
+        "is_winner": false,
+        "tmdb_id": 1069164,
+        "tmdb_title": "直到夜尽头",
+        "tmdb_release_date": "2023-06-22"
+      },
+      {
+        "title": "黑莓传奇 BlackBerry",
+        "link": "https://movie.douban.com/subject/36212964/",
+        "metas": "马特·约翰逊",
+        "is_winner": false,
+        "tmdb_id": null,
+        "tmdb_title": null,
+        "tmdb_release_date": null
+      },
+      {
+        "title": "图腾 Tótem",
+        "link": "https://movie.douban.com/subject/36218615/",
+        "metas": "莉拉·阿维莱斯",
+        "is_winner": false,
+        "tmdb_id": 483737,
+        "tmdb_title": "图腾",
+        "tmdb_release_date": "2017-10-31"
+      },
+      {
+        "title": "地狱边缘 Limbo",
+        "link": "https://movie.douban.com/subject/36219933/",
+        "metas": "伊凡·森",
+        "is_winner": false,
+        "tmdb_id": 1077670,
+        "tmdb_title": "地狱边缘",
+        "tmdb_release_date": "2023-05-18"
+      }
+    ]
+  },
+  {
+    "session": 74,
+    "year": 2024,
+    "winner": "达荷美 Dahomey",
+    "nominees": [
+      "以爱之茗 Black Tea",
+      "恶魔之浴 Des Teufels Bad",
+      "外语 Langue étrangère",
+      "佩佩 Pepe",
+      "建筑元 Architecton",
+      "我属于谁 ماء العين",
+      "死亡乐章 Sterben",
+      "我最喜欢的蛋糕 کیک محبوب من",
+      "香巴拉 शम्भाला",
+      "帝国 L'Empire",
+      "厨房 La Cocina",
+      "不同的男人 A Different Man",
+      "另一种结局 Another End",
+      "像这样的小事 Small Things Like These",
+      "儿子 Vogter",
+      "荣归主颂 Gloria!",
+      "旅行者的需求 여행자의 필요",
+      "爱你们的希尔德 In Liebe, Eure Hilde",
+      "暂停时光 Hors du Temps"
+    ],
+    "all_movies_data": [
+      {
+        "title": "达荷美 Dahomey",
+        "link": "https://movie.douban.com/subject/36713600/",
+        "metas": "玛缇·迪欧普",
+        "is_winner": true,
+        "tmdb_id": 1101256,
+        "tmdb_title": "达荷美",
+        "tmdb_release_date": "2024-09-11"
+      },
+      {
+        "title": "以爱之茗 Black Tea",
+        "link": "https://movie.douban.com/subject/34927019/",
+        "metas": "阿伯德拉马纳·希萨柯",
+        "is_winner": false,
+        "tmdb_id": 662402,
+        "tmdb_title": "以爱之茗",
+        "tmdb_release_date": "2024-02-28"
+      },
+      {
+        "title": "恶魔之浴 Des Teufels Bad",
+        "link": "https://movie.douban.com/subject/34953760/",
+        "metas": "维罗妮卡·弗兰茨",
+        "is_winner": false,
+        "tmdb_id": 931944,
+        "tmdb_title": "恶魔之浴",
+        "tmdb_release_date": "2024-03-08"
+      },
+      {
+        "title": "外语 Langue étrangère",
+        "link": "https://movie.douban.com/subject/35258372/",
+        "metas": "克莱尔·伯格",
+        "is_winner": false,
+        "tmdb_id": 803690,
+        "tmdb_title": "外语",
+        "tmdb_release_date": "2024-09-11"
+      },
+      {
+        "title": "佩佩 Pepe",
+        "link": "https://movie.douban.com/subject/35318019/",
+        "metas": "尼尔森·卡洛·德洛斯桑托斯·阿里亚斯",
+        "is_winner": false,
+        "tmdb_id": 1172241,
+        "tmdb_title": "佩佩",
+        "tmdb_release_date": "2024-07-18"
+      },
+      {
+        "title": "建筑元 Architecton",
+        "link": "https://movie.douban.com/subject/35322663/",
+        "metas": "维克多·科萨科夫斯基",
+        "is_winner": false,
+        "tmdb_id": 1234597,
+        "tmdb_title": "建筑元",
+        "tmdb_release_date": "2024-10-03"
+      },
+      {
+        "title": "我属于谁 ماء العين",
+        "link": "https://movie.douban.com/subject/35516555/",
+        "metas": "梅亚姆·朱贝尔",
+        "is_winner": false,
+        "tmdb_id": 794090,
+        "tmdb_title": "我属于谁",
+        "tmdb_release_date": "2024-11-01"
+      },
+      {
+        "title": "死亡乐章 Sterben",
+        "link": "https://movie.douban.com/subject/35634049/",
+        "metas": "马蒂亚斯·格拉斯纳",
+        "is_winner": false,
+        "tmdb_id": 1232781,
+        "tmdb_title": "死亡乐章",
+        "tmdb_release_date": "2024-04-25"
+      },
+      {
+        "title": "我最喜欢的蛋糕 کیک محبوب من",
+        "link": "https://movie.douban.com/subject/35740381/",
+        "metas": "贝塔什·萨奈哈",
+        "is_winner": false,
+        "tmdb_id": 1234591,
+        "tmdb_title": "我最喜欢的蛋糕",
+        "tmdb_release_date": "2024-07-11"
+      },
+      {
+        "title": "香巴拉 शम्भाला",
+        "link": "https://movie.douban.com/subject/35745602/",
+        "metas": "明·巴哈杜尔·巴姆",
+        "is_winner": false,
+        "tmdb_id": null,
+        "tmdb_title": null,
+        "tmdb_release_date": null
+      },
+      {
+        "title": "帝国 L'Empire",
+        "link": "https://movie.douban.com/subject/35750076/",
+        "metas": "布鲁诺·杜蒙",
+        "is_winner": false,
+        "tmdb_id": 100697,
+        "tmdb_title": "失落的帝国",
+        "tmdb_release_date": "1984-06-22"
+      },
+      {
+        "title": "厨房 La Cocina",
+        "link": "https://movie.douban.com/subject/35881314/",
+        "metas": "阿隆索·帕拉西奥斯",
+        "is_winner": false,
+        "tmdb_id": 956262,
+        "tmdb_title": "末世厨房",
+        "tmdb_release_date": "2023-10-15"
+      },
+      {
+        "title": "不同的男人 A Different Man",
+        "link": "https://movie.douban.com/subject/35936716/",
+        "metas": "亚伦·施密伯格",
+        "is_winner": false,
+        "tmdb_id": 989662,
+        "tmdb_title": "不同的男人",
+        "tmdb_release_date": "2024-08-24"
+      },
+      {
+        "title": "另一种结局 Another End",
+        "link": "https://movie.douban.com/subject/36253902/",
+        "metas": "皮耶罗·梅西纳",
+        "is_winner": false,
+        "tmdb_id": 1087593,
+        "tmdb_title": "另一种结局",
+        "tmdb_release_date": "2024-03-21"
+      },
+      {
+        "title": "像这样的小事 Small Things Like These",
+        "link": "https://movie.douban.com/subject/36322177/",
+        "metas": "蒂姆·米兰特斯",
+        "is_winner": false,
+        "tmdb_id": 1102493,
+        "tmdb_title": "像这样的小事",
+        "tmdb_release_date": "2024-11-01"
+      },
+      {
+        "title": "儿子 Vogter",
+        "link": "https://movie.douban.com/subject/36357845/",
+        "metas": "古斯塔夫·莫勒",
+        "is_winner": false,
+        "tmdb_id": 1113120,
+        "tmdb_title": "儿子",
+        "tmdb_release_date": "2024-07-10"
+      },
+      {
+        "title": "荣归主颂 Gloria!",
+        "link": "https://movie.douban.com/subject/36445125/",
+        "metas": "玛格丽塔·维卡里奥",
+        "is_winner": false,
+        "tmdb_id": 1231035,
+        "tmdb_title": "荣归主颂",
+        "tmdb_release_date": "2024-04-11"
+      },
+      {
+        "title": "旅行者的需求 여행자의 필요",
+        "link": "https://movie.douban.com/subject/36464506/",
+        "metas": "洪常秀",
+        "is_winner": false,
+        "tmdb_id": 1146410,
+        "tmdb_title": "旅行者的需求",
+        "tmdb_release_date": "2024-04-24"
+      },
+      {
+        "title": "爱你们的希尔德 In Liebe, Eure Hilde",
+        "link": "https://movie.douban.com/subject/36527099/",
+        "metas": "安德里亚斯·德里森",
+        "is_winner": false,
+        "tmdb_id": 1070319,
+        "tmdb_title": "爱你们的希尔德",
+        "tmdb_release_date": "2024-10-17"
+      },
+      {
+        "title": "暂停时光 Hors du Temps",
+        "link": "https://movie.douban.com/subject/36697057/",
+        "metas": "奥利维耶·阿萨亚斯",
+        "is_winner": false,
+        "tmdb_id": 1119625,
+        "tmdb_title": "暂停时光",
+        "tmdb_release_date": "2024-06-19"
+      }
+    ]
+  },
+  {
+    "session": 75,
+    "year": 2025,
+    "winner": "性梦爱三部曲：梦 Drømmer",
+    "nominees": [
+      "生息之地",
+      "热牛奶 Hot Milk",
+      "母亲的宝贝 Mother's Baby‎",
+      "死钻倒影 Reflet dans un Diamant Mort",
+      "安全屋 La Cache",
+      "冰之塔 La Tour de glace",
+      "远方乡愁 Yunan",
+      "如果有腿，我会踢你 If I Had Legs I’d Kick You",
+      "天空的另一面 O Último Azul",
+      "音讯 El Mensaje",
+      "梦想 Dreams",
+      "想飞的女孩",
+      "时间戳 Стрічка часу",
+      "阿里 Arï",
+      "蓝月亮 Blue Moon",
+      "大自然对你说了什么 그 자연이 네게 뭐라고 하니",
+      "玛丽埃尔都知道 Was Marielle weiß",
+      "二〇二五年的欧陆 Kontinental '25"
+    ],
+    "all_movies_data": [
+      {
+        "title": "性梦爱三部曲：梦 Drømmer",
+        "link": "https://movie.douban.com/subject/36117334/",
+        "metas": "达格·约翰·豪格鲁德",
+        "is_winner": true,
+        "tmdb_id": 1228682,
+        "tmdb_title": "性梦爱三部曲：梦",
+        "tmdb_release_date": "2024-10-04"
+      },
+      {
+        "title": "生息之地",
+        "link": "https://movie.douban.com/subject/34842493/",
+        "metas": "霍猛",
+        "is_winner": false,
+        "tmdb_id": 1421153,
+        "tmdb_title": "生息之地",
+        "tmdb_release_date": "2025-12-24"
+      },
+      {
+        "title": "热牛奶 Hot Milk",
+        "link": "https://movie.douban.com/subject/35768977/",
+        "metas": "丽贝卡·伦科维茨",
+        "is_winner": false,
+        "tmdb_id": 933490,
+        "tmdb_title": "热牛奶",
+        "tmdb_release_date": "2025-05-28"
+      },
+      {
+        "title": "母亲的宝贝 Mother's Baby‎",
+        "link": "https://movie.douban.com/subject/36159758/",
+        "metas": "约翰娜·莫德",
+        "is_winner": false,
+        "tmdb_id": null,
+        "tmdb_title": null,
+        "tmdb_release_date": null
+      },
+      {
+        "title": "死钻倒影 Reflet dans un Diamant Mort",
+        "link": "https://movie.douban.com/subject/36219474/",
+        "metas": "埃莱娜·卡泰",
+        "is_winner": false,
+        "tmdb_id": 1013446,
+        "tmdb_title": "死钻倒影",
+        "tmdb_release_date": "2025-06-25"
+      },
+      {
+        "title": "安全屋 La Cache",
+        "link": "https://movie.douban.com/subject/36363745/",
+        "metas": "利奥内尔·巴耶",
+        "is_winner": false,
+        "tmdb_id": 1266809,
+        "tmdb_title": "安全屋",
+        "tmdb_release_date": "2025-03-19"
+      },
+      {
+        "title": "冰之塔 La Tour de glace",
+        "link": "https://movie.douban.com/subject/36453662/",
+        "metas": "露西尔·哈兹哈利洛维奇",
+        "is_winner": false,
+        "tmdb_id": 1143440,
+        "tmdb_title": "冰之塔",
+        "tmdb_release_date": "2025-09-17"
+      },
+      {
+        "title": "远方乡愁 Yunan",
+        "link": "https://movie.douban.com/subject/36471189/",
+        "metas": "阿米尔·法克尔·埃尔丁",
+        "is_winner": false,
+        "tmdb_id": null,
+        "tmdb_title": null,
+        "tmdb_release_date": null
+      },
+      {
+        "title": "如果有腿，我会踢你 If I Had Legs I’d Kick You",
+        "link": "https://movie.douban.com/subject/36481186/",
+        "metas": "玛丽·布隆斯坦",
+        "is_winner": false,
+        "tmdb_id": 1160360,
+        "tmdb_title": "如果有腿，我会踢你",
+        "tmdb_release_date": "2025-10-10"
+      },
+      {
+        "title": "天空的另一面 O Último Azul",
+        "link": "https://movie.douban.com/subject/36493869/",
+        "metas": "加布里埃尔·马斯卡罗",
+        "is_winner": false,
+        "tmdb_id": 1172265,
+        "tmdb_title": "天空的另一面",
+        "tmdb_release_date": "2025-08-28"
+      },
+      {
+        "title": "音讯 El Mensaje",
+        "link": "https://movie.douban.com/subject/36514038/",
+        "metas": "伊万·冯德",
+        "is_winner": false,
+        "tmdb_id": 1339361,
+        "tmdb_title": "音讯",
+        "tmdb_release_date": "2025-07-03"
+      },
+      {
+        "title": "梦想 Dreams",
+        "link": "https://movie.douban.com/subject/36558610/",
+        "metas": "米歇尔·弗兰克",
+        "is_winner": false,
+        "tmdb_id": 222468,
+        "tmdb_title": "梦想",
+        "tmdb_release_date": "1993-09-11"
+      },
+      {
+        "title": "想飞的女孩",
+        "link": "https://movie.douban.com/subject/36678379/",
+        "metas": "文晏",
+        "is_winner": false,
+        "tmdb_id": 1275332,
+        "tmdb_title": "想飞的女孩",
+        "tmdb_release_date": "2025-03-08"
+      },
+      {
+        "title": "时间戳 Стрічка часу",
+        "link": "https://movie.douban.com/subject/36779042/",
+        "metas": "卡特琳娜·戈诺斯泰",
+        "is_winner": false,
+        "tmdb_id": null,
+        "tmdb_title": null,
+        "tmdb_release_date": null
+      },
+      {
+        "title": "阿里 Arï",
+        "link": "https://movie.douban.com/subject/36821191/",
+        "metas": "蕾欧诺·瑟哈伊",
+        "is_winner": false,
+        "tmdb_id": null,
+        "tmdb_title": null,
+        "tmdb_release_date": null
+      },
+      {
+        "title": "蓝月亮 Blue Moon",
+        "link": "https://movie.douban.com/subject/36913754/",
+        "metas": "理查德·林克莱特",
+        "is_winner": false,
+        "tmdb_id": 1299655,
+        "tmdb_title": "蓝月亮",
+        "tmdb_release_date": "2025-10-17"
+      },
+      {
+        "title": "大自然对你说了什么 그 자연이 네게 뭐라고 하니",
+        "link": "https://movie.douban.com/subject/36961962/",
+        "metas": "洪常秀",
+        "is_winner": false,
+        "tmdb_id": 1418849,
+        "tmdb_title": "大自然对你说了什么",
+        "tmdb_release_date": "2025-05-14"
+      },
+      {
+        "title": "玛丽埃尔都知道 Was Marielle weiß",
+        "link": "https://movie.douban.com/subject/37067530/",
+        "metas": "弗雷德里克·汉巴莱克",
+        "is_winner": false,
+        "tmdb_id": 1416893,
+        "tmdb_title": "玛丽埃尔都知道",
+        "tmdb_release_date": "2025-04-17"
+      },
+      {
+        "title": "二〇二五年的欧陆 Kontinental '25",
+        "link": "https://movie.douban.com/subject/37170426/",
+        "metas": "拉杜·裘德",
+        "is_winner": false,
+        "tmdb_id": 1410189,
+        "tmdb_title": "二〇二五年的欧陆",
+        "tmdb_release_date": "2025-09-24"
+      }
+    ]
+  }
+]

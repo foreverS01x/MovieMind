@@ -9,16 +9,14 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  # 网络请求
   dio: ^5.3.0
-  # 图片缓存加载
   cached_network_image: ^3.3.0
-  # 轮播图 (仿照首页 Banner)
   carousel_slider: ^5.0.0
-  # 评分星星
   flutter_rating_bar: ^4.0.1
-  # 图标
   cupertino_icons: ^1.0.2
+  shared_preferences: ^2.2.2
+  intl: ^0.19.0
+  image_picker: ^1.0.7
 
 dev_dependencies:
   flutter_test:
@@ -27,3 +25,7 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+  assets:
+    - assets/images/genres/
+    - assets/images/actors/
+    - assets/awards/

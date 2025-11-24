@@ -1,0 +1,1792 @@
+[
+  {
+    "session": 77,
+    "year": 2005,
+    "winner": "百万美元宝贝 Million Dollar Baby",
+    "nominees": [
+      "杯酒人生 Sideways",
+      "寻找梦幻岛 Finding Neverland",
+      "飞行家 The Aviator",
+      "灵魂歌王 Ray"
+    ],
+    "all_movies_data": [
+      {
+        "title": "百万美元宝贝 Million Dollar Baby",
+        "link": "https://movie.douban.com/subject/1309016/",
+        "metas": "",
+        "is_winner": true,
+        "tmdb_id": 70,
+        "tmdb_title": "百万美元宝贝",
+        "tmdb_release_date": "2004-12-05"
+      },
+      {
+        "title": "杯酒人生 Sideways",
+        "link": "https://movie.douban.com/subject/1291833/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 128169,
+        "tmdb_title": "杯酒人生",
+        "tmdb_release_date": "2009-10-31"
+      },
+      {
+        "title": "寻找梦幻岛 Finding Neverland",
+        "link": "https://movie.douban.com/subject/1308831/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 866,
+        "tmdb_title": "寻找梦幻岛",
+        "tmdb_release_date": "2004-10-29"
+      },
+      {
+        "title": "飞行家 The Aviator",
+        "link": "https://movie.douban.com/subject/1309070/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 2567,
+        "tmdb_title": "飞行家",
+        "tmdb_release_date": "2004-12-17"
+      },
+      {
+        "title": "灵魂歌王 Ray",
+        "link": "https://movie.douban.com/subject/1309085/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 1677,
+        "tmdb_title": "灵魂歌王 Ray",
+        "tmdb_release_date": "2004-10-29"
+      }
+    ]
+  },
+  {
+    "session": 78,
+    "year": 2006,
+    "winner": "撞车 Crash",
+    "nominees": [
+      "断背山 Brokeback Mountain",
+      "卡波特 Capote",
+      "晚安，好运 Good Night, and Good Luck.",
+      "慕尼黑 Munich"
+    ],
+    "all_movies_data": [
+      {
+        "title": "撞车 Crash",
+        "link": "https://movie.douban.com/subject/1388216/",
+        "metas": "",
+        "is_winner": true,
+        "tmdb_id": 1498499,
+        "tmdb_title": "撞车 Crash",
+        "tmdb_release_date": ""
+      },
+      {
+        "title": "断背山 Brokeback Mountain",
+        "link": "https://movie.douban.com/subject/1418834/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 142,
+        "tmdb_title": "断背山",
+        "tmdb_release_date": "2005-10-22"
+      },
+      {
+        "title": "卡波特 Capote",
+        "link": "https://movie.douban.com/subject/1422957/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 398,
+        "tmdb_title": "卡波特",
+        "tmdb_release_date": "2005-09-30"
+      },
+      {
+        "title": "晚安，好运 Good Night, and Good Luck.",
+        "link": "https://movie.douban.com/subject/1431617/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 3291,
+        "tmdb_title": "晚安，好运",
+        "tmdb_release_date": "2005-09-16"
+      },
+      {
+        "title": "慕尼黑 Munich",
+        "link": "https://movie.douban.com/subject/1438338/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 612,
+        "tmdb_title": "慕尼黑",
+        "tmdb_release_date": "2005-12-23"
+      }
+    ]
+  },
+  {
+    "session": 79,
+    "year": 2007,
+    "winner": "无间道风云 The Departed",
+    "nominees": [
+      "通天塔 Babel",
+      "阳光小美女 Little Miss Sunshine",
+      "女王 The Queen",
+      "硫磺岛的来信 Letters from Iwo Jima"
+    ],
+    "all_movies_data": [
+      {
+        "title": "无间道风云 The Departed",
+        "link": "https://movie.douban.com/subject/1315316/",
+        "metas": "",
+        "is_winner": true,
+        "tmdb_id": 1422,
+        "tmdb_title": "无间道风云",
+        "tmdb_release_date": "2006-10-04"
+      },
+      {
+        "title": "通天塔 Babel",
+        "link": "https://movie.douban.com/subject/1498818/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 1164,
+        "tmdb_title": "通天塔",
+        "tmdb_release_date": "2006-10-26"
+      },
+      {
+        "title": "阳光小美女 Little Miss Sunshine",
+        "link": "https://movie.douban.com/subject/1777612/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 773,
+        "tmdb_title": "阳光小美女",
+        "tmdb_release_date": "2006-07-26"
+      },
+      {
+        "title": "女王 The Queen",
+        "link": "https://movie.douban.com/subject/1866264/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 27800,
+        "tmdb_title": "杀死尖叫女王",
+        "tmdb_release_date": "2004-10-01"
+      },
+      {
+        "title": "硫磺岛的来信 Letters from Iwo Jima",
+        "link": "https://movie.douban.com/subject/1917171/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 1251,
+        "tmdb_title": "硫磺岛的来信",
+        "tmdb_release_date": "2006-12-09"
+      }
+    ]
+  },
+  {
+    "session": 80,
+    "year": 2008,
+    "winner": "老无所依 No Country for Old Men",
+    "nominees": [
+      "迈克尔·克莱顿 Michael Clayton",
+      "血色将至 There Will Be Blood",
+      "赎罪 Atonement",
+      "朱诺 Juno"
+    ],
+    "all_movies_data": [
+      {
+        "title": "老无所依 No Country for Old Men",
+        "link": "https://movie.douban.com/subject/1857099/",
+        "metas": "",
+        "is_winner": true,
+        "tmdb_id": 6977,
+        "tmdb_title": "老无所依",
+        "tmdb_release_date": "2007-11-09"
+      },
+      {
+        "title": "迈克尔·克莱顿 Michael Clayton",
+        "link": "https://movie.douban.com/subject/1905790/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 4566,
+        "tmdb_title": "迈克尔·克莱顿",
+        "tmdb_release_date": "2007-09-28"
+      },
+      {
+        "title": "血色将至 There Will Be Blood",
+        "link": "https://movie.douban.com/subject/1945780/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 7345,
+        "tmdb_title": "血色将至",
+        "tmdb_release_date": "2007-12-26"
+      },
+      {
+        "title": "赎罪 Atonement",
+        "link": "https://movie.douban.com/subject/1950148/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 4347,
+        "tmdb_title": "赎罪",
+        "tmdb_release_date": "2007-02-27"
+      },
+      {
+        "title": "朱诺 Juno",
+        "link": "https://movie.douban.com/subject/2132495/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 63210,
+        "tmdb_title": "珍妮和朱诺",
+        "tmdb_release_date": "2005-02-18"
+      }
+    ]
+  },
+  {
+    "session": 81,
+    "year": 2009,
+    "winner": "贫民窟的百万富翁 Slumdog Millionaire",
+    "nominees": [
+      "本杰明·巴顿奇事 The Curious Case of Benjamin Button",
+      "对话尼克松 Frost/Nixon",
+      "朗读者 The Reader",
+      "米尔克 Milk"
+    ],
+    "all_movies_data": [
+      {
+        "title": "贫民窟的百万富翁 Slumdog Millionaire",
+        "link": "https://movie.douban.com/subject/2209573/",
+        "metas": "",
+        "is_winner": true,
+        "tmdb_id": 12405,
+        "tmdb_title": "贫民窟的百万富翁",
+        "tmdb_release_date": "2008-11-12"
+      },
+      {
+        "title": "本杰明·巴顿奇事 The Curious Case of Benjamin Button",
+        "link": "https://movie.douban.com/subject/1485260/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 4922,
+        "tmdb_title": "本杰明·巴顿奇事",
+        "tmdb_release_date": "2008-12-25"
+      },
+      {
+        "title": "对话尼克松 Frost/Nixon",
+        "link": "https://movie.douban.com/subject/2062678/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 11499,
+        "tmdb_title": "对话尼克松",
+        "tmdb_release_date": "2008-10-15"
+      },
+      {
+        "title": "朗读者 The Reader",
+        "link": "https://movie.douban.com/subject/2213597/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 8055,
+        "tmdb_title": "朗读者",
+        "tmdb_release_date": "2008-12-10"
+      },
+      {
+        "title": "米尔克 Milk",
+        "link": "https://movie.douban.com/subject/2336737/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 10139,
+        "tmdb_title": "米尔克",
+        "tmdb_release_date": "2008-11-05"
+      }
+    ]
+  },
+  {
+    "session": 82,
+    "year": 2010,
+    "winner": "拆弹部队 The Hurt Locker",
+    "nominees": [
+      "无耻混蛋 Inglourious Basterds",
+      "阿凡达 Avatar",
+      "飞屋环游记 Up",
+      "第九区 District 9",
+      "珍爱 Precious",
+      "成长教育 An Education",
+      "在云端 Up in the Air",
+      "严肃的男人 A Serious Man",
+      "弱点 The Blind Side"
+    ],
+    "all_movies_data": [
+      {
+        "title": "拆弹部队 The Hurt Locker",
+        "link": "https://movie.douban.com/subject/2028645/",
+        "metas": "",
+        "is_winner": true,
+        "tmdb_id": 12162,
+        "tmdb_title": "拆弹部队",
+        "tmdb_release_date": "2008-10-10"
+      },
+      {
+        "title": "无耻混蛋 Inglourious Basterds",
+        "link": "https://movie.douban.com/subject/1438652/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 16869,
+        "tmdb_title": "无耻混蛋",
+        "tmdb_release_date": "2009-08-02"
+      },
+      {
+        "title": "阿凡达 Avatar",
+        "link": "https://movie.douban.com/subject/1652587/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 83533,
+        "tmdb_title": "阿凡达：火与烬",
+        "tmdb_release_date": "2025-12-17"
+      },
+      {
+        "title": "飞屋环游记 Up",
+        "link": "https://movie.douban.com/subject/2129039/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 14160,
+        "tmdb_title": "飞屋环游记",
+        "tmdb_release_date": "2009-05-28"
+      },
+      {
+        "title": "第九区 District 9",
+        "link": "https://movie.douban.com/subject/3006772/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 17654,
+        "tmdb_title": "第九区",
+        "tmdb_release_date": "2009-08-05"
+      },
+      {
+        "title": "珍爱 Precious",
+        "link": "https://movie.douban.com/subject/3011072/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 25793,
+        "tmdb_title": "珍爱",
+        "tmdb_release_date": "2009-11-06"
+      },
+      {
+        "title": "成长教育 An Education",
+        "link": "https://movie.douban.com/subject/3011093/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 24684,
+        "tmdb_title": "成长教育",
+        "tmdb_release_date": "2009-10-29"
+      },
+      {
+        "title": "在云端 Up in the Air",
+        "link": "https://movie.douban.com/subject/3077791/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 22947,
+        "tmdb_title": "在云端",
+        "tmdb_release_date": "2009-12-04"
+      },
+      {
+        "title": "严肃的男人 A Serious Man",
+        "link": "https://movie.douban.com/subject/3135483/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 12573,
+        "tmdb_title": "严肃的男人",
+        "tmdb_release_date": "2009-10-02"
+      },
+      {
+        "title": "弱点 The Blind Side",
+        "link": "https://movie.douban.com/subject/3552028/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 22881,
+        "tmdb_title": "弱点",
+        "tmdb_release_date": "2009-11-20"
+      }
+    ]
+  },
+  {
+    "session": 83,
+    "year": 2011,
+    "winner": "国王的演讲 The King's Speech",
+    "nominees": [
+      "玩具总动员3 Toy Story 3",
+      "黑天鹅 Black Swan",
+      "斗士 The Fighter",
+      "社交网络 The Social Network",
+      "盗梦空间 Inception",
+      "孩子们都很好 The Kids Are All Right",
+      "冬天的骨头 Winter's Bone",
+      "大地惊雷 True Grit",
+      "127小时 127 Hours"
+    ],
+    "all_movies_data": [
+      {
+        "title": "国王的演讲 The King's Speech",
+        "link": "https://movie.douban.com/subject/4023638/",
+        "metas": "",
+        "is_winner": true,
+        "tmdb_id": 134683,
+        "tmdb_title": "国王演讲：背后的故事",
+        "tmdb_release_date": "2011-07-01"
+      },
+      {
+        "title": "玩具总动员3 Toy Story 3",
+        "link": "https://movie.douban.com/subject/1858711/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 10193,
+        "tmdb_title": "玩具总动员3",
+        "tmdb_release_date": "2010-06-16"
+      },
+      {
+        "title": "黑天鹅 Black Swan",
+        "link": "https://movie.douban.com/subject/1978709/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 44214,
+        "tmdb_title": "黑天鹅",
+        "tmdb_release_date": "2010-12-03"
+      },
+      {
+        "title": "斗士 The Fighter",
+        "link": "https://movie.douban.com/subject/2056093/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 152364,
+        "tmdb_title": "斗士",
+        "tmdb_release_date": "1989-06-02"
+      },
+      {
+        "title": "社交网络 The Social Network",
+        "link": "https://movie.douban.com/subject/3205624/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 37799,
+        "tmdb_title": "社交网络",
+        "tmdb_release_date": "2010-10-01"
+      },
+      {
+        "title": "盗梦空间 Inception",
+        "link": "https://movie.douban.com/subject/3541415/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 27205,
+        "tmdb_title": "盗梦空间",
+        "tmdb_release_date": "2010-07-15"
+      },
+      {
+        "title": "孩子们都很好 The Kids Are All Right",
+        "link": "https://movie.douban.com/subject/3569969/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 39781,
+        "tmdb_title": "孩子们都很好",
+        "tmdb_release_date": "2010-07-09"
+      },
+      {
+        "title": "冬天的骨头 Winter's Bone",
+        "link": "https://movie.douban.com/subject/3610676/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 39013,
+        "tmdb_title": "冬天的骨头",
+        "tmdb_release_date": "2010-06-11"
+      },
+      {
+        "title": "大地惊雷 True Grit",
+        "link": "https://movie.douban.com/subject/3626372/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 17529,
+        "tmdb_title": "大地惊雷",
+        "tmdb_release_date": "1969-06-11"
+      },
+      {
+        "title": "127小时 127 Hours",
+        "link": "https://movie.douban.com/subject/4164444/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 44115,
+        "tmdb_title": "127小时",
+        "tmdb_release_date": "2010-11-12"
+      }
+    ]
+  },
+  {
+    "session": 84,
+    "year": 2012,
+    "winner": "艺术家 The Artist",
+    "nominees": [
+      "雨果 Hugo",
+      "生命之树 The Tree of Life",
+      "点球成金 Moneyball",
+      "后裔 The Descendants",
+      "特别响，非常近 Extremely Loud and Incredibly Close",
+      "相助 The Help",
+      "战马 War Horse",
+      "午夜巴黎 Midnight in Paris"
+    ],
+    "all_movies_data": [
+      {
+        "title": "艺术家 The Artist",
+        "link": "https://movie.douban.com/subject/6097775/",
+        "metas": "",
+        "is_winner": true,
+        "tmdb_id": 309859,
+        "tmdb_title": "红背艺术家",
+        "tmdb_release_date": "2015-03-15"
+      },
+      {
+        "title": "雨果 Hugo",
+        "link": "https://movie.douban.com/subject/2028677/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 44826,
+        "tmdb_title": "雨果",
+        "tmdb_release_date": "2011-11-22"
+      },
+      {
+        "title": "生命之树 The Tree of Life",
+        "link": "https://movie.douban.com/subject/2336735/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 292790,
+        "tmdb_title": "探索生命之树",
+        "tmdb_release_date": "2011-10-11"
+      },
+      {
+        "title": "点球成金 Moneyball",
+        "link": "https://movie.douban.com/subject/3023164/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 60308,
+        "tmdb_title": "点球成金",
+        "tmdb_release_date": "2011-09-23"
+      },
+      {
+        "title": "后裔 The Descendants",
+        "link": "https://movie.douban.com/subject/3071509/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 65057,
+        "tmdb_title": "后裔",
+        "tmdb_release_date": "2011-09-09"
+      },
+      {
+        "title": "特别响，非常近 Extremely Loud and Incredibly Close",
+        "link": "https://movie.douban.com/subject/3078514/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 64685,
+        "tmdb_title": "特别响，非常近",
+        "tmdb_release_date": "2011-12-25"
+      },
+      {
+        "title": "相助 The Help",
+        "link": "https://movie.douban.com/subject/3792848/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 50014,
+        "tmdb_title": "相助",
+        "tmdb_release_date": "2011-08-09"
+      },
+      {
+        "title": "战马 War Horse",
+        "link": "https://movie.douban.com/subject/4206436/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 57212,
+        "tmdb_title": "战马",
+        "tmdb_release_date": "2011-12-25"
+      },
+      {
+        "title": "午夜巴黎 Midnight in Paris",
+        "link": "https://movie.douban.com/subject/4319218/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 59436,
+        "tmdb_title": "午夜巴黎",
+        "tmdb_release_date": "2011-05-11"
+      }
+    ]
+  },
+  {
+    "session": 85,
+    "year": 2013,
+    "winner": "逃离德黑兰 Argo",
+    "nominees": [
+      "林肯 Lincoln",
+      "少年派的奇幻漂流 Life of Pi",
+      "乌云背后的幸福线 Silver Linings Playbook",
+      "爱 Amour",
+      "被解救的姜戈 Django Unchained",
+      "猎杀本·拉登 Zero Dark Thirty",
+      "悲惨世界 Les Misérables",
+      "南国野兽 Beasts of the Southern Wild"
+    ],
+    "all_movies_data": [
+      {
+        "title": "逃离德黑兰 Argo",
+        "link": "https://movie.douban.com/subject/6549903/",
+        "metas": "",
+        "is_winner": true,
+        "tmdb_id": 68734,
+        "tmdb_title": "逃离德黑兰",
+        "tmdb_release_date": "2012-10-11"
+      },
+      {
+        "title": "林肯 Lincoln",
+        "link": "https://movie.douban.com/subject/1889242/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 72331,
+        "tmdb_title": "吸血鬼猎人林肯",
+        "tmdb_release_date": "2012-06-20"
+      },
+      {
+        "title": "少年派的奇幻漂流 Life of Pi",
+        "link": "https://movie.douban.com/subject/1929463/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 87827,
+        "tmdb_title": "少年派的奇幻漂流",
+        "tmdb_release_date": "2012-11-20"
+      },
+      {
+        "title": "乌云背后的幸福线 Silver Linings Playbook",
+        "link": "https://movie.douban.com/subject/3094909/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 82693,
+        "tmdb_title": "乌云背后的幸福线",
+        "tmdb_release_date": "2012-11-16"
+      },
+      {
+        "title": "爱 Amour",
+        "link": "https://movie.douban.com/subject/4798707/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 1228685,
+        "tmdb_title": "性梦爱三部曲：爱",
+        "tmdb_release_date": "2024-11-10"
+      },
+      {
+        "title": "被解救的姜戈 Django Unchained",
+        "link": "https://movie.douban.com/subject/6307447/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 68718,
+        "tmdb_title": "被解救的姜戈",
+        "tmdb_release_date": "2012-12-25"
+      },
+      {
+        "title": "猎杀本·拉登 Zero Dark Thirty",
+        "link": "https://movie.douban.com/subject/6430835/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 97630,
+        "tmdb_title": "猎杀本·拉登",
+        "tmdb_release_date": "2012-12-19"
+      },
+      {
+        "title": "悲惨世界 Les Misérables",
+        "link": "https://movie.douban.com/subject/6860160/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 82695,
+        "tmdb_title": "悲惨世界",
+        "tmdb_release_date": "2012-12-18"
+      },
+      {
+        "title": "南国野兽 Beasts of the Southern Wild",
+        "link": "https://movie.douban.com/subject/7015714/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 84175,
+        "tmdb_title": "南国野兽",
+        "tmdb_release_date": "2012-06-29"
+      }
+    ]
+  },
+  {
+    "session": 86,
+    "year": 2014,
+    "winner": "为奴十二年 12 Years a Slave",
+    "nominees": [
+      "达拉斯买家俱乐部 Dallas Buyers Club",
+      "华尔街之狼 The Wolf of Wall Street",
+      "地心引力 Gravity",
+      "菲利普船长 Captain Phillips",
+      "内布拉斯加 Nebraska",
+      "她 Her",
+      "美国骗局 American Hustle",
+      "菲洛梅娜 Philomena"
+    ],
+    "all_movies_data": [
+      {
+        "title": "为奴十二年 12 Years a Slave",
+        "link": "https://movie.douban.com/subject/6879185/",
+        "metas": "",
+        "is_winner": true,
+        "tmdb_id": 76203,
+        "tmdb_title": "为奴十二年",
+        "tmdb_release_date": "2013-10-18"
+      },
+      {
+        "title": "达拉斯买家俱乐部 Dallas Buyers Club",
+        "link": "https://movie.douban.com/subject/1793929/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 152532,
+        "tmdb_title": "达拉斯买家俱乐部",
+        "tmdb_release_date": "2013-11-01"
+      },
+      {
+        "title": "华尔街之狼 The Wolf of Wall Street",
+        "link": "https://movie.douban.com/subject/2997076/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 106646,
+        "tmdb_title": "华尔街之狼",
+        "tmdb_release_date": "2013-12-25"
+      },
+      {
+        "title": "地心引力 Gravity",
+        "link": "https://movie.douban.com/subject/3793783/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 594587,
+        "tmdb_title": "爱的地心引力",
+        "tmdb_release_date": "2018-11-29"
+      },
+      {
+        "title": "菲利普船长 Captain Phillips",
+        "link": "https://movie.douban.com/subject/4116480/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 109424,
+        "tmdb_title": "菲利普船长",
+        "tmdb_release_date": "2013-10-10"
+      },
+      {
+        "title": "内布拉斯加 Nebraska",
+        "link": "https://movie.douban.com/subject/6538833/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 129670,
+        "tmdb_title": "内布拉斯加",
+        "tmdb_release_date": "2013-09-21"
+      },
+      {
+        "title": "她 Her",
+        "link": "https://movie.douban.com/subject/6722879/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 1472754,
+        "tmdb_title": "I Saw Her. I Saw Him. 看见她。看见他。",
+        "tmdb_release_date": "2025-02-08"
+      },
+      {
+        "title": "美国骗局 American Hustle",
+        "link": "https://movie.douban.com/subject/6873657/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 168672,
+        "tmdb_title": "美国骗局",
+        "tmdb_release_date": "2013-12-03"
+      },
+      {
+        "title": "菲洛梅娜 Philomena",
+        "link": "https://movie.douban.com/subject/19973780/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 205220,
+        "tmdb_title": "菲洛梅娜",
+        "tmdb_release_date": "2013-11-01"
+      }
+    ]
+  },
+  {
+    "session": 87,
+    "year": 2015,
+    "winner": "鸟人 Birdman or (The Unexpected Virtue of Ignorance)",
+    "nominees": [
+      "少年时代 Boyhood",
+      "塞尔玛 Selma",
+      "模仿游戏 The Imitation Game",
+      "布达佩斯大饭店 The Grand Budapest Hotel",
+      "美国狙击手 American Sniper",
+      "万物理论 The Theory of Everything",
+      "爆裂鼓手 Whiplash"
+    ],
+    "all_movies_data": [
+      {
+        "title": "鸟人 Birdman or (The Unexpected Virtue of Ignorance)",
+        "link": "https://movie.douban.com/subject/20438962/",
+        "metas": "",
+        "is_winner": true,
+        "tmdb_id": 194662,
+        "tmdb_title": "鸟人",
+        "tmdb_release_date": "2014-10-17"
+      },
+      {
+        "title": "少年时代 Boyhood",
+        "link": "https://movie.douban.com/subject/2209575/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 85350,
+        "tmdb_title": "少年时代",
+        "tmdb_release_date": "2014-06-05"
+      },
+      {
+        "title": "塞尔玛 Selma",
+        "link": "https://movie.douban.com/subject/3089638/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 273895,
+        "tmdb_title": "塞尔玛",
+        "tmdb_release_date": "2014-12-25"
+      },
+      {
+        "title": "模仿游戏 The Imitation Game",
+        "link": "https://movie.douban.com/subject/10463953/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 205596,
+        "tmdb_title": "模仿游戏",
+        "tmdb_release_date": "2014-11-14"
+      },
+      {
+        "title": "布达佩斯大饭店 The Grand Budapest Hotel",
+        "link": "https://movie.douban.com/subject/11525673/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 120467,
+        "tmdb_title": "布达佩斯大饭店",
+        "tmdb_release_date": "2014-02-26"
+      },
+      {
+        "title": "美国狙击手 American Sniper",
+        "link": "https://movie.douban.com/subject/21263666/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 190859,
+        "tmdb_title": "美国狙击手",
+        "tmdb_release_date": "2014-12-25"
+      },
+      {
+        "title": "万物理论 The Theory of Everything",
+        "link": "https://movie.douban.com/subject/24815950/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 932801,
+        "tmdb_title": "万物理论",
+        "tmdb_release_date": "2023-10-26"
+      },
+      {
+        "title": "爆裂鼓手 Whiplash",
+        "link": "https://movie.douban.com/subject/25773932/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 244786,
+        "tmdb_title": "爆裂鼓手",
+        "tmdb_release_date": "2014-10-10"
+      }
+    ]
+  },
+  {
+    "session": 88,
+    "year": 2016,
+    "winner": "聚焦 Spotlight",
+    "nominees": [
+      "疯狂的麦克斯4：狂暴之路 Mad Max: Fury Road",
+      "荒野猎人 The Revenant",
+      "布鲁克林 Brooklyn",
+      "房间 Room",
+      "火星救援 The Martian",
+      "间谍之桥 Bridge of Spies",
+      "大空头 The Big Short"
+    ],
+    "all_movies_data": [
+      {
+        "title": "聚焦 Spotlight",
+        "link": "https://movie.douban.com/subject/25954475/",
+        "metas": "",
+        "is_winner": true,
+        "tmdb_id": 314365,
+        "tmdb_title": "聚焦",
+        "tmdb_release_date": "2015-11-06"
+      },
+      {
+        "title": "疯狂的麦克斯4：狂暴之路 Mad Max: Fury Road",
+        "link": "https://movie.douban.com/subject/3592854/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 76341,
+        "tmdb_title": "疯狂的麦克斯4：狂暴之路",
+        "tmdb_release_date": "2015-05-13"
+      },
+      {
+        "title": "荒野猎人 The Revenant",
+        "link": "https://movie.douban.com/subject/5327268/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 281957,
+        "tmdb_title": "荒野猎人",
+        "tmdb_release_date": "2015-12-25"
+      },
+      {
+        "title": "布鲁克林 Brooklyn",
+        "link": "https://movie.douban.com/subject/10741220/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 213342,
+        "tmdb_title": "布鲁克林巴比伦",
+        "tmdb_release_date": "2001-08-16"
+      },
+      {
+        "title": "房间 Room",
+        "link": "https://movie.douban.com/subject/25724855/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 1364117,
+        "tmdb_title": "绝望的夜班",
+        "tmdb_release_date": "2024-09-20"
+      },
+      {
+        "title": "火星救援 The Martian",
+        "link": "https://movie.douban.com/subject/25864085/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 286217,
+        "tmdb_title": "火星救援",
+        "tmdb_release_date": "2015-09-30"
+      },
+      {
+        "title": "间谍之桥 Bridge of Spies",
+        "link": "https://movie.douban.com/subject/25908051/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 296098,
+        "tmdb_title": "间谍之桥",
+        "tmdb_release_date": "2015-10-15"
+      },
+      {
+        "title": "大空头 The Big Short",
+        "link": "https://movie.douban.com/subject/26303622/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 318846,
+        "tmdb_title": "大空头",
+        "tmdb_release_date": "2015-12-11"
+      }
+    ]
+  },
+  {
+    "session": 89,
+    "year": 2017,
+    "winner": "月光男孩 Moonlight",
+    "nominees": [
+      "降临 Arrival",
+      "藩篱 Fences",
+      "爱乐之城 La La Land",
+      "海边的曼彻斯特 Manchester by the Sea",
+      "雄狮 Lion",
+      "血战钢锯岭 Hacksaw Ridge",
+      "赴汤蹈火 Hell or High Water",
+      "隐藏人物 Hidden Figures"
+    ],
+    "all_movies_data": [
+      {
+        "title": "月光男孩 Moonlight",
+        "link": "https://movie.douban.com/subject/26648249/",
+        "metas": "",
+        "is_winner": true,
+        "tmdb_id": 376867,
+        "tmdb_title": "月光男孩",
+        "tmdb_release_date": "2016-10-21"
+      },
+      {
+        "title": "降临 Arrival",
+        "link": "https://movie.douban.com/subject/21324900/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 329865,
+        "tmdb_title": "降临",
+        "tmdb_release_date": "2016-11-10"
+      },
+      {
+        "title": "藩篱 Fences",
+        "link": "https://movie.douban.com/subject/21339682/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 393457,
+        "tmdb_title": "藩篱",
+        "tmdb_release_date": "2016-12-16"
+      },
+      {
+        "title": "爱乐之城 La La Land",
+        "link": "https://movie.douban.com/subject/25934014/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 313369,
+        "tmdb_title": "爱乐之城",
+        "tmdb_release_date": "2016-12-01"
+      },
+      {
+        "title": "海边的曼彻斯特 Manchester by the Sea",
+        "link": "https://movie.douban.com/subject/25980443/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 334541,
+        "tmdb_title": "海边的曼彻斯特",
+        "tmdb_release_date": "2016-11-17"
+      },
+      {
+        "title": "雄狮 Lion",
+        "link": "https://movie.douban.com/subject/26220650/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 130251,
+        "tmdb_title": "蒙古的雄狮",
+        "tmdb_release_date": "1924-12-12"
+      },
+      {
+        "title": "血战钢锯岭 Hacksaw Ridge",
+        "link": "https://movie.douban.com/subject/26325320/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 324786,
+        "tmdb_title": "血战钢锯岭",
+        "tmdb_release_date": "2016-10-07"
+      },
+      {
+        "title": "赴汤蹈火 Hell or High Water",
+        "link": "https://movie.douban.com/subject/26389148/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 338766,
+        "tmdb_title": "赴汤蹈火",
+        "tmdb_release_date": "2016-08-11"
+      },
+      {
+        "title": "隐藏人物 Hidden Figures",
+        "link": "https://movie.douban.com/subject/26615208/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 381284,
+        "tmdb_title": "隐藏人物",
+        "tmdb_release_date": "2016-12-10"
+      }
+    ]
+  },
+  {
+    "session": 90,
+    "year": 2018,
+    "winner": "水形物语 The Shape of Water",
+    "nominees": [
+      "伯德小姐 Lady Bird",
+      "敦刻尔克 Dunkirk",
+      "三块广告牌 Three Billboards Outside Ebbing, Missouri",
+      "逃出绝命镇 Get Out",
+      "至暗时刻 Darkest Hour",
+      "请以你的名字呼唤我 Call Me by Your Name",
+      "魅影缝匠 Phantom Thread",
+      "华盛顿邮报 The Post"
+    ],
+    "all_movies_data": [
+      {
+        "title": "水形物语 The Shape of Water",
+        "link": "https://movie.douban.com/subject/26752852/",
+        "metas": "",
+        "is_winner": true,
+        "tmdb_id": 399055,
+        "tmdb_title": "水形物语",
+        "tmdb_release_date": "2017-12-01"
+      },
+      {
+        "title": "伯德小姐 Lady Bird",
+        "link": "https://movie.douban.com/subject/26588314/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 391713,
+        "tmdb_title": "伯德小姐",
+        "tmdb_release_date": "2017-09-01"
+      },
+      {
+        "title": "敦刻尔克 Dunkirk",
+        "link": "https://movie.douban.com/subject/26607693/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 374720,
+        "tmdb_title": "敦刻尔克",
+        "tmdb_release_date": "2017-07-19"
+      },
+      {
+        "title": "三块广告牌 Three Billboards Outside Ebbing, Missouri",
+        "link": "https://movie.douban.com/subject/26611804/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 359940,
+        "tmdb_title": "三块广告牌",
+        "tmdb_release_date": "2017-12-01"
+      },
+      {
+        "title": "逃出绝命镇 Get Out",
+        "link": "https://movie.douban.com/subject/26688480/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 419430,
+        "tmdb_title": "逃出绝命镇",
+        "tmdb_release_date": "2017-02-24"
+      },
+      {
+        "title": "至暗时刻 Darkest Hour",
+        "link": "https://movie.douban.com/subject/26761416/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 399404,
+        "tmdb_title": "至暗时刻",
+        "tmdb_release_date": "2017-11-22"
+      },
+      {
+        "title": "请以你的名字呼唤我 Call Me by Your Name",
+        "link": "https://movie.douban.com/subject/26799731/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 398818,
+        "tmdb_title": "请以你的名字呼唤我",
+        "tmdb_release_date": "2017-07-28"
+      },
+      {
+        "title": "魅影缝匠 Phantom Thread",
+        "link": "https://movie.douban.com/subject/26809592/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 400617,
+        "tmdb_title": "魅影缝匠",
+        "tmdb_release_date": "2017-12-25"
+      },
+      {
+        "title": "华盛顿邮报 The Post",
+        "link": "https://movie.douban.com/subject/26990609/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 446354,
+        "tmdb_title": "华盛顿邮报",
+        "tmdb_release_date": "2017-12-22"
+      }
+    ]
+  },
+  {
+    "session": 91,
+    "year": 2019,
+    "winner": "绿皮书 Green Book",
+    "nominees": [
+      "罗马 Roma",
+      "一个明星的诞生 A Star Is Born",
+      "波西米亚狂想曲 Bohemian Rhapsody",
+      "黑豹 Black Panther",
+      "宠儿 The Favourite",
+      "副总统 Vice",
+      "黑色党徒 BlacKkKlansman"
+    ],
+    "all_movies_data": [
+      {
+        "title": "绿皮书 Green Book",
+        "link": "https://movie.douban.com/subject/27060077/",
+        "metas": "",
+        "is_winner": true,
+        "tmdb_id": 490132,
+        "tmdb_title": "绿皮书",
+        "tmdb_release_date": "2018-11-16"
+      },
+      {
+        "title": "罗马 Roma",
+        "link": "https://movie.douban.com/subject/1950330/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 255870,
+        "tmdb_title": "罗马夏日",
+        "tmdb_release_date": "2000-11-01"
+      },
+      {
+        "title": "一个明星的诞生 A Star Is Born",
+        "link": "https://movie.douban.com/subject/4058933/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 332562,
+        "tmdb_title": "一个明星的诞生",
+        "tmdb_release_date": "2018-10-03"
+      },
+      {
+        "title": "波西米亚狂想曲 Bohemian Rhapsody",
+        "link": "https://movie.douban.com/subject/5300054/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 424694,
+        "tmdb_title": "波西米亚狂想曲",
+        "tmdb_release_date": "2018-10-24"
+      },
+      {
+        "title": "黑豹 Black Panther",
+        "link": "https://movie.douban.com/subject/6390825/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 1186236,
+        "tmdb_title": "黑豹",
+        "tmdb_release_date": "1993-01-01"
+      },
+      {
+        "title": "宠儿 The Favourite",
+        "link": "https://movie.douban.com/subject/26628282/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 375262,
+        "tmdb_title": "宠儿",
+        "tmdb_release_date": "2018-11-23"
+      },
+      {
+        "title": "副总统 Vice",
+        "link": "https://movie.douban.com/subject/26920842/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 429197,
+        "tmdb_title": "副总统",
+        "tmdb_release_date": "2018-12-25"
+      },
+      {
+        "title": "黑色党徒 BlacKkKlansman",
+        "link": "https://movie.douban.com/subject/27133913/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 487558,
+        "tmdb_title": "黑色党徒",
+        "tmdb_release_date": "2018-08-09"
+      }
+    ]
+  },
+  {
+    "session": 92,
+    "year": 2020,
+    "winner": "寄生虫 기생충",
+    "nominees": [
+      "极速车王 Ford v Ferrari",
+      "爱尔兰人 The Irishman",
+      "小妇人 Little Women",
+      "好莱坞往事 Once Upon a Time... in Hollywood",
+      "小丑 Joker",
+      "婚姻故事 Marriage Story",
+      "乔乔的异想世界 Jojo Rabbit",
+      "1917"
+    ],
+    "all_movies_data": [
+      {
+        "title": "寄生虫 기생충",
+        "link": "https://movie.douban.com/subject/27010768/",
+        "metas": "",
+        "is_winner": true,
+        "tmdb_id": 496243,
+        "tmdb_title": "寄生虫",
+        "tmdb_release_date": "2019-05-30"
+      },
+      {
+        "title": "极速车王 Ford v Ferrari",
+        "link": "https://movie.douban.com/subject/6538866/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 359724,
+        "tmdb_title": "极速车王",
+        "tmdb_release_date": "2019-11-13"
+      },
+      {
+        "title": "爱尔兰人 The Irishman",
+        "link": "https://movie.douban.com/subject/6981153/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 51209,
+        "tmdb_title": "杀死这个爱尔兰人",
+        "tmdb_release_date": "2011-03-10"
+      },
+      {
+        "title": "小妇人 Little Women",
+        "link": "https://movie.douban.com/subject/26348103/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 483347,
+        "tmdb_title": "小妇人",
+        "tmdb_release_date": "2018-09-28"
+      },
+      {
+        "title": "好莱坞往事 Once Upon a Time... in Hollywood",
+        "link": "https://movie.douban.com/subject/27087724/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 466272,
+        "tmdb_title": "好莱坞往事",
+        "tmdb_release_date": "2019-07-24"
+      },
+      {
+        "title": "小丑 Joker",
+        "link": "https://movie.douban.com/subject/27119724/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 475557,
+        "tmdb_title": "小丑",
+        "tmdb_release_date": "2019-10-01"
+      },
+      {
+        "title": "婚姻故事 Marriage Story",
+        "link": "https://movie.douban.com/subject/27202818/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 492188,
+        "tmdb_title": "婚姻故事",
+        "tmdb_release_date": "2019-09-28"
+      },
+      {
+        "title": "乔乔的异想世界 Jojo Rabbit",
+        "link": "https://movie.douban.com/subject/30170546/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 515001,
+        "tmdb_title": "乔乔的异想世界",
+        "tmdb_release_date": "2019-10-18"
+      },
+      {
+        "title": "1917",
+        "link": "https://movie.douban.com/subject/30252495/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 530915,
+        "tmdb_title": "1917",
+        "tmdb_release_date": "2019-12-25"
+      }
+    ]
+  },
+  {
+    "session": 94,
+    "year": 2022,
+    "winner": "健听女孩 CODA",
+    "nominees": [
+      "沙丘 Dune",
+      "西区故事 West Side Story",
+      "玉面情魔 Nightmare Alley",
+      "国王理查德 King Richard",
+      "犬之力 The Power of the Dog",
+      "不要抬头 Don't Look Up",
+      "甘草披萨 Licorice Pizza",
+      "驾驶我的车 ドライブ・マイ・カー",
+      "贝尔法斯特 Belfast"
+    ],
+    "all_movies_data": [
+      {
+        "title": "健听女孩 CODA",
+        "link": "https://movie.douban.com/subject/35048413/",
+        "metas": "",
+        "is_winner": true,
+        "tmdb_id": 1366558,
+        "tmdb_title": "独一无二",
+        "tmdb_release_date": "2025-05-01"
+      },
+      {
+        "title": "沙丘 Dune",
+        "link": "https://movie.douban.com/subject/3001114/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 881460,
+        "tmdb_title": "沙丘行星",
+        "tmdb_release_date": "2021-10-29"
+      },
+      {
+        "title": "西区故事 West Side Story",
+        "link": "https://movie.douban.com/subject/26820621/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 511809,
+        "tmdb_title": "西区故事",
+        "tmdb_release_date": "2021-12-08"
+      },
+      {
+        "title": "玉面情魔 Nightmare Alley",
+        "link": "https://movie.douban.com/subject/27605105/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 597208,
+        "tmdb_title": "玉面情魔",
+        "tmdb_release_date": "2021-12-02"
+      },
+      {
+        "title": "国王理查德 King Richard",
+        "link": "https://movie.douban.com/subject/30481476/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 614917,
+        "tmdb_title": "国王理查德",
+        "tmdb_release_date": "2021-11-18"
+      },
+      {
+        "title": "犬之力 The Power of the Dog",
+        "link": "https://movie.douban.com/subject/33437152/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 600583,
+        "tmdb_title": "犬之力",
+        "tmdb_release_date": "2021-10-25"
+      },
+      {
+        "title": "不要抬头 Don't Look Up",
+        "link": "https://movie.douban.com/subject/34884712/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 646380,
+        "tmdb_title": "Don't Look Up",
+        "tmdb_release_date": "2021-12-08"
+      },
+      {
+        "title": "甘草披萨 Licorice Pizza",
+        "link": "https://movie.douban.com/subject/34888057/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 718032,
+        "tmdb_title": "甘草披萨",
+        "tmdb_release_date": "2021-11-26"
+      },
+      {
+        "title": "驾驶我的车 ドライブ・マイ・カー",
+        "link": "https://movie.douban.com/subject/35235502/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 758866,
+        "tmdb_title": "驾驶我的车",
+        "tmdb_release_date": "2021-08-18"
+      },
+      {
+        "title": "贝尔法斯特 Belfast",
+        "link": "https://movie.douban.com/subject/35299584/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 222033,
+        "tmdb_title": "贝尔法斯特往事",
+        "tmdb_release_date": "2013-09-20"
+      }
+    ]
+  },
+  {
+    "session": 95,
+    "year": 2023,
+    "winner": "瞬息全宇宙 Everything Everywhere All at Once",
+    "nominees": [
+      "西线无战事 Im Westen nichts Neues",
+      "阿凡达：水之道 Avatar: The Way of Water",
+      "壮志凌云2：独行侠 Top Gun: Maverick",
+      "猫王 Elvis",
+      "悲情三角 Triangle of Sadness",
+      "伊尼舍林的报丧女妖 The Banshees of Inisherin",
+      "女人们的谈话 Women Talking",
+      "造梦之家 The Fabelmans",
+      "塔尔 Tár"
+    ],
+    "all_movies_data": [
+      {
+        "title": "瞬息全宇宙 Everything Everywhere All at Once",
+        "link": "https://movie.douban.com/subject/30314848/",
+        "metas": "",
+        "is_winner": true,
+        "tmdb_id": 545611,
+        "tmdb_title": "瞬息全宇宙",
+        "tmdb_release_date": "2022-03-24"
+      },
+      {
+        "title": "西线无战事 Im Westen nichts Neues",
+        "link": "https://movie.douban.com/subject/3042261/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 10912,
+        "tmdb_title": "新西线无战事",
+        "tmdb_release_date": "1979-11-14"
+      },
+      {
+        "title": "阿凡达：水之道 Avatar: The Way of Water",
+        "link": "https://movie.douban.com/subject/4811774/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 76600,
+        "tmdb_title": "阿凡达：水之道",
+        "tmdb_release_date": "2022-12-14"
+      },
+      {
+        "title": "壮志凌云2：独行侠 Top Gun: Maverick",
+        "link": "https://movie.douban.com/subject/6893932/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 361743,
+        "tmdb_title": "Top Gun: Maverick",
+        "tmdb_release_date": "2022-05-21"
+      },
+      {
+        "title": "猫王 Elvis",
+        "link": "https://movie.douban.com/subject/26305582/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 614934,
+        "tmdb_title": "猫王",
+        "tmdb_release_date": "2022-06-22"
+      },
+      {
+        "title": "悲情三角 Triangle of Sadness",
+        "link": "https://movie.douban.com/subject/27066152/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 497828,
+        "tmdb_title": "悲情三角",
+        "tmdb_release_date": "2022-09-18"
+      },
+      {
+        "title": "伊尼舍林的报丧女妖 The Banshees of Inisherin",
+        "link": "https://movie.douban.com/subject/34969348/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 674324,
+        "tmdb_title": "伊尼舍林的报丧女妖",
+        "tmdb_release_date": "2022-10-20"
+      },
+      {
+        "title": "女人们的谈话 Women Talking",
+        "link": "https://movie.douban.com/subject/35290372/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 777245,
+        "tmdb_title": "女人们的谈话",
+        "tmdb_release_date": "2022-12-23"
+      },
+      {
+        "title": "造梦之家 The Fabelmans",
+        "link": "https://movie.douban.com/subject/35390098/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 804095,
+        "tmdb_title": "造梦之家",
+        "tmdb_release_date": "2022-11-11"
+      },
+      {
+        "title": "塔尔 Tár",
+        "link": "https://movie.douban.com/subject/35430833/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 817758,
+        "tmdb_title": "塔尔",
+        "tmdb_release_date": "2022-09-23"
+      }
+    ]
+  },
+  {
+    "session": 96,
+    "year": 2024,
+    "winner": "奥本海默 Oppenheimer",
+    "nominees": [
+      "芭比 Barbie",
+      "音乐大师 Maestro",
+      "花月杀手 Killers of the Flower Moon",
+      "过往人生 Past Lives",
+      "利益区域 The Zone of Interest",
+      "可怜的东西 Poor Things",
+      "留校联盟 The Holdovers",
+      "坠落的审判 Anatomie d'une chute",
+      "美国小说 American Fiction"
+    ],
+    "all_movies_data": [
+      {
+        "title": "奥本海默 Oppenheimer",
+        "link": "https://movie.douban.com/subject/35593344/",
+        "metas": "",
+        "is_winner": true,
+        "tmdb_id": 872585,
+        "tmdb_title": "奥本海默",
+        "tmdb_release_date": "2023-07-19"
+      },
+      {
+        "title": "芭比 Barbie",
+        "link": "https://movie.douban.com/subject/4058939/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 346698,
+        "tmdb_title": "芭比",
+        "tmdb_release_date": "2023-07-19"
+      },
+      {
+        "title": "音乐大师 Maestro",
+        "link": "https://movie.douban.com/subject/26653386/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 523607,
+        "tmdb_title": "大师风华：真爱乐章",
+        "tmdb_release_date": "2023-11-22"
+      },
+      {
+        "title": "花月杀手 Killers of the Flower Moon",
+        "link": "https://movie.douban.com/subject/26745332/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 466420,
+        "tmdb_title": "花月杀手",
+        "tmdb_release_date": "2023-10-18"
+      },
+      {
+        "title": "过往人生 Past Lives",
+        "link": "https://movie.douban.com/subject/34963356/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 666277,
+        "tmdb_title": "过往人生",
+        "tmdb_release_date": "2023-06-02"
+      },
+      {
+        "title": "利益区域 The Zone of Interest",
+        "link": "https://movie.douban.com/subject/35169716/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 467244,
+        "tmdb_title": "利益区域",
+        "tmdb_release_date": "2023-12-15"
+      },
+      {
+        "title": "可怜的东西 Poor Things",
+        "link": "https://movie.douban.com/subject/35350109/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 792307,
+        "tmdb_title": "可怜的东西",
+        "tmdb_release_date": "2023-12-07"
+      },
+      {
+        "title": "留校联盟 The Holdovers",
+        "link": "https://movie.douban.com/subject/35496212/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 840430,
+        "tmdb_title": "留校联盟",
+        "tmdb_release_date": "2023-10-27"
+      },
+      {
+        "title": "坠落的审判 Anatomie d'une chute",
+        "link": "https://movie.douban.com/subject/35633650/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 915935,
+        "tmdb_title": "坠落的审判",
+        "tmdb_release_date": "2023-08-23"
+      },
+      {
+        "title": "美国小说 American Fiction",
+        "link": "https://movie.douban.com/subject/36212631/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 1056360,
+        "tmdb_title": "美国小说",
+        "tmdb_release_date": "2023-11-10"
+      }
+    ]
+  },
+  {
+    "session": 97,
+    "year": 2025,
+    "winner": "阿诺拉 Anora",
+    "nominees": [
+      "魔法坏女巫 Wicked",
+      "粗野派 The Brutalist",
+      "摇滚诗人：未知的传奇 A Complete Unknown",
+      "我仍在此 Ainda estou aqui",
+      "沙丘2 Dune: Part Two",
+      "某种物质 The Substance",
+      "艾米莉亚·佩雷斯 Emilia Pérez",
+      "秘密会议 Conclave",
+      "五分钱男孩 Nickel Boys"
+    ],
+    "all_movies_data": [
+      {
+        "title": "阿诺拉 Anora",
+        "link": "https://movie.douban.com/subject/36195543/",
+        "metas": "",
+        "is_winner": true,
+        "tmdb_id": 1064213,
+        "tmdb_title": "阿诺拉",
+        "tmdb_release_date": "2024-10-14"
+      },
+      {
+        "title": "魔法坏女巫 Wicked",
+        "link": "https://movie.douban.com/subject/3148694/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 967941,
+        "tmdb_title": "魔法坏女巫2",
+        "tmdb_release_date": "2025-11-19"
+      },
+      {
+        "title": "粗野派 The Brutalist",
+        "link": "https://movie.douban.com/subject/30388206/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 549509,
+        "tmdb_title": "粗野派",
+        "tmdb_release_date": "2024-12-20"
+      },
+      {
+        "title": "摇滚诗人：未知的传奇 A Complete Unknown",
+        "link": "https://movie.douban.com/subject/34940704/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 661539,
+        "tmdb_title": "摇滚诗人：未知的传奇",
+        "tmdb_release_date": "2024-12-25"
+      },
+      {
+        "title": "我仍在此 Ainda estou aqui",
+        "link": "https://movie.douban.com/subject/35512487/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 43939,
+        "tmdb_title": "我仍然在此",
+        "tmdb_release_date": "2010-09-10"
+      },
+      {
+        "title": "沙丘2 Dune: Part Two",
+        "link": "https://movie.douban.com/subject/35575567/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 693134,
+        "tmdb_title": "沙丘2",
+        "tmdb_release_date": "2024-02-27"
+      },
+      {
+        "title": "某种物质 The Substance",
+        "link": "https://movie.douban.com/subject/35882838/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 933260,
+        "tmdb_title": "某种物质",
+        "tmdb_release_date": "2024-09-07"
+      },
+      {
+        "title": "艾米莉亚·佩雷斯 Emilia Pérez",
+        "link": "https://movie.douban.com/subject/35900114/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 974950,
+        "tmdb_title": "艾米莉亚·佩雷斯",
+        "tmdb_release_date": "2024-08-21"
+      },
+      {
+        "title": "秘密会议 Conclave",
+        "link": "https://movie.douban.com/subject/35948807/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 974576,
+        "tmdb_title": "秘密会议",
+        "tmdb_release_date": "2024-10-25"
+      },
+      {
+        "title": "五分钱男孩 Nickel Boys",
+        "link": "https://movie.douban.com/subject/36449043/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 1028196,
+        "tmdb_title": "尼克男孩",
+        "tmdb_release_date": "2024-12-13"
+      }
+    ]
+  }
+]
