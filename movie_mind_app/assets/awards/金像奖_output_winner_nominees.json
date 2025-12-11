@@ -1,0 +1,1162 @@
+[
+  {
+    "session": 24,
+    "year": 2005,
+    "award_category": "最佳电影 Best Film",
+    "winner": "功夫",
+    "nominees": [
+      "2046",
+      "新警察故事",
+      "大事件",
+      "旺角黑夜"
+    ],
+    "all_movies_data": [
+      {
+        "title": "功夫",
+        "link": "https://movie.douban.com/subject/1291543/",
+        "metas": "",
+        "is_winner": true,
+        "tmdb_id": 9470,
+        "tmdb_title": "功夫",
+        "tmdb_release_date": "2004-02-10"
+      },
+      {
+        "title": "2046",
+        "link": "https://movie.douban.com/subject/1291555/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 844,
+        "tmdb_title": "2046",
+        "tmdb_release_date": "2004-10-29"
+      },
+      {
+        "title": "新警察故事",
+        "link": "https://movie.douban.com/subject/1306160/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 11636,
+        "tmdb_title": "新警察故事",
+        "tmdb_release_date": "2004-09-23"
+      },
+      {
+        "title": "大事件",
+        "link": "https://movie.douban.com/subject/1308855/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 12543,
+        "tmdb_title": "大事件",
+        "tmdb_release_date": "2004-06-10"
+      },
+      {
+        "title": "旺角黑夜",
+        "link": "https://movie.douban.com/subject/1366853/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 28772,
+        "tmdb_title": "旺角黑夜",
+        "tmdb_release_date": "2004-05-10"
+      }
+    ]
+  },
+  {
+    "session": 25,
+    "year": 2006,
+    "award_category": "最佳电影 Best Film",
+    "winner": "黑社会 黑社會",
+    "nominees": [
+      "神话",
+      "头文字D 頭文字D",
+      "七剑",
+      "如果·爱"
+    ],
+    "all_movies_data": [
+      {
+        "title": "黑社会 黑社會",
+        "link": "https://movie.douban.com/subject/1309220/",
+        "metas": "",
+        "is_winner": true,
+        "tmdb_id": 19337,
+        "tmdb_title": "日本黑社会",
+        "tmdb_release_date": "1999-05-22"
+      },
+      {
+        "title": "神话",
+        "link": "https://movie.douban.com/subject/1307023/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 902478,
+        "tmdb_title": "爱情神话",
+        "tmdb_release_date": "2021-12-24"
+      },
+      {
+        "title": "头文字D 頭文字D",
+        "link": "https://movie.douban.com/subject/1329562/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 80741,
+        "tmdb_title": "头文字D Third Stage",
+        "tmdb_release_date": "2001-01-13"
+      },
+      {
+        "title": "七剑",
+        "link": "https://movie.douban.com/subject/1401205/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 1030131,
+        "tmdb_title": "七剑降魔传",
+        "tmdb_release_date": "2022-09-29"
+      },
+      {
+        "title": "如果·爱",
+        "link": "https://movie.douban.com/subject/1418070/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 309204,
+        "tmdb_title": "如果没有爱",
+        "tmdb_release_date": "2000-01-01"
+      }
+    ]
+  },
+  {
+    "session": 26,
+    "year": 2007,
+    "award_category": "最佳电影 Best Film",
+    "winner": "父子",
+    "nominees": [
+      "霍元甲",
+      "黑社会2：以和为贵 黑社會以和為貴",
+      "满城尽带黄金甲",
+      "放·逐"
+    ],
+    "all_movies_data": [
+      {
+        "title": "父子",
+        "link": "https://movie.douban.com/subject/1727557/",
+        "metas": "",
+        "is_winner": true,
+        "tmdb_id": 11960,
+        "tmdb_title": "父子",
+        "tmdb_release_date": "2006-11-30"
+      },
+      {
+        "title": "霍元甲",
+        "link": "https://movie.douban.com/subject/1441602/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 7549,
+        "tmdb_title": "霍元甲",
+        "tmdb_release_date": "2006-01-26"
+      },
+      {
+        "title": "黑社会2：以和为贵 黑社會以和為貴",
+        "link": "https://movie.douban.com/subject/1484760/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 15077,
+        "tmdb_title": "黑社会2：以和为贵",
+        "tmdb_release_date": "2006-04-27"
+      },
+      {
+        "title": "满城尽带黄金甲",
+        "link": "https://movie.douban.com/subject/1499008/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 1494,
+        "tmdb_title": "满城尽带黄金甲‎",
+        "tmdb_release_date": "2006-12-14"
+      },
+      {
+        "title": "放·逐",
+        "link": "https://movie.douban.com/subject/1790577/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 13807,
+        "tmdb_title": "放·逐",
+        "tmdb_release_date": "2006-10-19"
+      }
+    ]
+  },
+  {
+    "session": 27,
+    "year": 2008,
+    "award_category": "最佳电影 Best Film",
+    "winner": "投名状",
+    "nominees": [
+      "姨妈的后现代生活",
+      "门徒 門徒",
+      "跟踪 跟蹤",
+      "神探"
+    ],
+    "all_movies_data": [
+      {
+        "title": "投名状",
+        "link": "https://movie.douban.com/subject/1947089/",
+        "metas": "",
+        "is_winner": true,
+        "tmdb_id": 14392,
+        "tmdb_title": "投名状",
+        "tmdb_release_date": "2007-12-12"
+      },
+      {
+        "title": "姨妈的后现代生活",
+        "link": "https://movie.douban.com/subject/1794435/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 122611,
+        "tmdb_title": "姨妈的后现代生活",
+        "tmdb_release_date": "2007-08-03"
+      },
+      {
+        "title": "门徒 門徒",
+        "link": "https://movie.douban.com/subject/1890784/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 1002318,
+        "tmdb_title": "十三门徒",
+        "tmdb_release_date": "2022-08-27"
+      },
+      {
+        "title": "跟踪 跟蹤",
+        "link": "https://movie.douban.com/subject/1947114/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 238593,
+        "tmdb_title": "陌生人跟踪手册",
+        "tmdb_release_date": "2013-10-28"
+      },
+      {
+        "title": "神探",
+        "link": "https://movie.douban.com/subject/2027938/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 14016,
+        "tmdb_title": "神探",
+        "tmdb_release_date": "2007-11-29"
+      }
+    ]
+  },
+  {
+    "session": 28,
+    "year": 2009,
+    "award_category": "最佳电影 Best Film",
+    "winner": "叶问 葉問",
+    "nominees": [
+      "赤壁(上)",
+      "长江七号",
+      "画皮 畫皮",
+      "天水围的日与夜 天水圍的日與夜"
+    ],
+    "all_movies_data": [
+      {
+        "title": "叶问 葉問",
+        "link": "https://movie.douban.com/subject/3041806/",
+        "metas": "",
+        "is_winner": true,
+        "tmdb_id": 1128643,
+        "tmdb_title": "叶问5",
+        "tmdb_release_date": ""
+      },
+      {
+        "title": "赤壁(上)",
+        "link": "https://movie.douban.com/subject/1465829/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 12289,
+        "tmdb_title": "赤壁（上）",
+        "tmdb_release_date": "2008-07-10"
+      },
+      {
+        "title": "长江七号",
+        "link": "https://movie.douban.com/subject/1961963/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 13688,
+        "tmdb_title": "长江七号",
+        "tmdb_release_date": "2008-01-30"
+      },
+      {
+        "title": "画皮 畫皮",
+        "link": "https://movie.douban.com/subject/2135981/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 963337,
+        "tmdb_title": "画皮",
+        "tmdb_release_date": "2022-04-16"
+      },
+      {
+        "title": "天水围的日与夜 天水圍的日與夜",
+        "link": "https://movie.douban.com/subject/3077668/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 56575,
+        "tmdb_title": "天水围的日与夜",
+        "tmdb_release_date": "2008-07-17"
+      }
+    ]
+  },
+  {
+    "session": 29,
+    "year": 2010,
+    "award_category": "最佳电影 Best Film",
+    "winner": "十月围城",
+    "nominees": [
+      "新宿事件",
+      "赤壁(下)",
+      "音乐人生 音樂人生",
+      "窃听风云 竊聽風雲"
+    ],
+    "all_movies_data": [
+      {
+        "title": "十月围城",
+        "link": "https://movie.douban.com/subject/3626416/",
+        "metas": "",
+        "is_winner": true,
+        "tmdb_id": 30596,
+        "tmdb_title": "十月围城",
+        "tmdb_release_date": "2009-12-18"
+      },
+      {
+        "title": "新宿事件",
+        "link": "https://movie.douban.com/subject/2209368/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 20083,
+        "tmdb_title": "新宿事件",
+        "tmdb_release_date": "2009-03-22"
+      },
+      {
+        "title": "赤壁(下)",
+        "link": "https://movie.douban.com/subject/3291930/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 15384,
+        "tmdb_title": "赤壁（下）",
+        "tmdb_release_date": "2009-01-07"
+      },
+      {
+        "title": "音乐人生 音樂人生",
+        "link": "https://movie.douban.com/subject/3394878/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 197577,
+        "tmdb_title": "音乐人生",
+        "tmdb_release_date": "2009-04-03"
+      },
+      {
+        "title": "窃听风云 竊聽風雲",
+        "link": "https://movie.douban.com/subject/3412882/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 262137,
+        "tmdb_title": "窃听风云3",
+        "tmdb_release_date": "2014-05-30"
+      }
+    ]
+  },
+  {
+    "session": 30,
+    "year": 2011,
+    "award_category": "最佳电影 Best Film",
+    "winner": "打擂台",
+    "nominees": [
+      "狄仁杰之通天帝国",
+      "叶问2：宗师传奇 葉問2",
+      "剑雨",
+      "线人 綫人"
+    ],
+    "all_movies_data": [
+      {
+        "title": "打擂台",
+        "link": "https://movie.douban.com/subject/4323691/",
+        "metas": "",
+        "is_winner": true,
+        "tmdb_id": 152421,
+        "tmdb_title": "打擂台",
+        "tmdb_release_date": "1983-10-21"
+      },
+      {
+        "title": "狄仁杰之通天帝国",
+        "link": "https://movie.douban.com/subject/3412830/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 48492,
+        "tmdb_title": "狄仁杰之通天帝国",
+        "tmdb_release_date": "2010-09-18"
+      },
+      {
+        "title": "叶问2：宗师传奇 葉問2",
+        "link": "https://movie.douban.com/subject/3578981/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 37472,
+        "tmdb_title": "叶问2",
+        "tmdb_release_date": "2010-04-29"
+      },
+      {
+        "title": "剑雨",
+        "link": "https://movie.douban.com/subject/3813779/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 44092,
+        "tmdb_title": "剑雨",
+        "tmdb_release_date": "2010-09-01"
+      },
+      {
+        "title": "线人 綫人",
+        "link": "https://movie.douban.com/subject/4133814/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 106444,
+        "tmdb_title": "鬼线人",
+        "tmdb_release_date": "1984-09-22"
+      }
+    ]
+  },
+  {
+    "session": 31,
+    "year": 2012,
+    "award_category": "最佳电影 Best Film",
+    "winner": "桃姐",
+    "nominees": [
+      "夺命金 奪命金",
+      "让子弹飞",
+      "龙门飞甲",
+      "窃听风云2"
+    ],
+    "all_movies_data": [
+      {
+        "title": "桃姐",
+        "link": "https://movie.douban.com/subject/5977835/",
+        "metas": "",
+        "is_winner": true,
+        "tmdb_id": 91186,
+        "tmdb_title": "桃姐",
+        "tmdb_release_date": "2012-03-09"
+      },
+      {
+        "title": "夺命金 奪命金",
+        "link": "https://movie.douban.com/subject/3532614/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 90147,
+        "tmdb_title": "夺命金",
+        "tmdb_release_date": "2011-10-20"
+      },
+      {
+        "title": "让子弹飞",
+        "link": "https://movie.douban.com/subject/3742360/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 51533,
+        "tmdb_title": "让子弹飞",
+        "tmdb_release_date": "2010-12-20"
+      },
+      {
+        "title": "龙门飞甲",
+        "link": "https://movie.douban.com/subject/4896304/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 81870,
+        "tmdb_title": "龙门飞甲",
+        "tmdb_release_date": "2011-12-15"
+      },
+      {
+        "title": "窃听风云2",
+        "link": "https://movie.douban.com/subject/5422105/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 74639,
+        "tmdb_title": "窃听风云2",
+        "tmdb_release_date": "2011-08-18"
+      }
+    ]
+  },
+  {
+    "session": 32,
+    "year": 2013,
+    "award_category": "最佳电影 Best Film",
+    "winner": "寒战 寒戰",
+    "nominees": [
+      "车手 車手",
+      "逆战",
+      "低俗喜剧 低俗喜劇",
+      "消失的子弹"
+    ],
+    "all_movies_data": [
+      {
+        "title": "寒战 寒戰",
+        "link": "https://movie.douban.com/subject/6890730/",
+        "metas": "",
+        "is_winner": true,
+        "tmdb_id": 1499071,
+        "tmdb_title": "寒战1994",
+        "tmdb_release_date": ""
+      },
+      {
+        "title": "车手 車手",
+        "link": "https://movie.douban.com/subject/5319819/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 718930,
+        "tmdb_title": "杀手疾风号",
+        "tmdb_release_date": "2022-08-03"
+      },
+      {
+        "title": "逆战",
+        "link": "https://movie.douban.com/subject/5977836/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 1483614,
+        "tmdb_title": "仙逆剧场版：神临之战",
+        "tmdb_release_date": "2025-05-30"
+      },
+      {
+        "title": "低俗喜剧 低俗喜劇",
+        "link": "https://movie.douban.com/subject/6869395/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 123797,
+        "tmdb_title": "低俗喜剧",
+        "tmdb_release_date": "2012-07-07"
+      },
+      {
+        "title": "消失的子弹",
+        "link": "https://movie.douban.com/subject/6991110/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 129850,
+        "tmdb_title": "消失的子弹",
+        "tmdb_release_date": "2012-08-14"
+      }
+    ]
+  },
+  {
+    "session": 33,
+    "year": 2014,
+    "award_category": "最佳电影 Best Film",
+    "winner": "一代宗师 一代宗師",
+    "nominees": [
+      "西游降魔篇",
+      "扫毒 掃毒",
+      "激战 激戰",
+      "狂舞派"
+    ],
+    "all_movies_data": [
+      {
+        "title": "一代宗师 一代宗師",
+        "link": "https://movie.douban.com/subject/3821067/",
+        "metas": "",
+        "is_winner": true,
+        "tmdb_id": 376085,
+        "tmdb_title": "一代禅宗大师-六祖慧能传",
+        "tmdb_release_date": "1987-01-01"
+      },
+      {
+        "title": "西游降魔篇",
+        "link": "https://movie.douban.com/subject/5308265/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 170657,
+        "tmdb_title": "西游·降魔篇",
+        "tmdb_release_date": "2013-02-07"
+      },
+      {
+        "title": "扫毒 掃毒",
+        "link": "https://movie.douban.com/subject/10763164/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 1220063,
+        "tmdb_title": "雷霆扫毒",
+        "tmdb_release_date": "2023-12-19"
+      },
+      {
+        "title": "激战 激戰",
+        "link": "https://movie.douban.com/subject/20388223/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 213015,
+        "tmdb_title": "激战",
+        "tmdb_release_date": "2013-08-15"
+      },
+      {
+        "title": "狂舞派",
+        "link": "https://movie.douban.com/subject/21360412/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 743858,
+        "tmdb_title": "狂舞派3",
+        "tmdb_release_date": "2021-02-18"
+      }
+    ]
+  },
+  {
+    "session": 34,
+    "year": 2015,
+    "award_category": "最佳电影 Best Film",
+    "winner": "黄金时代",
+    "nominees": [
+      "窃听风云3",
+      "那夜凌晨，我坐上了旺角开往大埔的红VAN 那夜凌晨，我坐上了旺角開往大埔的紅VAN",
+      "人间·小团圆 香港仔",
+      "亲爱的"
+    ],
+    "all_movies_data": [
+      {
+        "title": "黄金时代",
+        "link": "https://movie.douban.com/subject/10545939/",
+        "metas": "",
+        "is_winner": true,
+        "tmdb_id": 4517,
+        "tmdb_title": "伊丽莎白：黄金时代",
+        "tmdb_release_date": "2007-09-09"
+      },
+      {
+        "title": "窃听风云3",
+        "link": "https://movie.douban.com/subject/10726941/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 262137,
+        "tmdb_title": "窃听风云3",
+        "tmdb_release_date": "2014-05-30"
+      },
+      {
+        "title": "那夜凌晨，我坐上了旺角开往大埔的红VAN 那夜凌晨，我坐上了旺角開往大埔的紅VAN",
+        "link": "https://movie.douban.com/subject/21354060/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 254526,
+        "tmdb_title": "那夜凌晨，我坐上了旺角开往大埔的红VAN",
+        "tmdb_release_date": "2014-04-10"
+      },
+      {
+        "title": "人间·小团圆 香港仔",
+        "link": "https://movie.douban.com/subject/24736526/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 257642,
+        "tmdb_title": "人间·小团圆",
+        "tmdb_release_date": "2014-05-08"
+      },
+      {
+        "title": "亲爱的",
+        "link": "https://movie.douban.com/subject/25798222/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 1469141,
+        "tmdb_title": "亲爱的陌生人",
+        "tmdb_release_date": "2025-09-12"
+      }
+    ]
+  },
+  {
+    "session": 35,
+    "year": 2016,
+    "award_category": "最佳电影 Best Film",
+    "winner": "智取威虎山",
+    "nominees": [
+      "叶问3",
+      "可爱的你 五個小孩的校長",
+      "踏血寻梅 踏血尋梅"
+    ],
+    "all_movies_data": [
+      {
+        "title": "智取威虎山",
+        "link": "https://movie.douban.com/subject/10807909/",
+        "metas": "",
+        "is_winner": true,
+        "tmdb_id": 294992,
+        "tmdb_title": "智取威虎山",
+        "tmdb_release_date": "2014-12-24"
+      },
+      {
+        "title": "叶问3",
+        "link": "https://movie.douban.com/subject/11598977/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 365222,
+        "tmdb_title": "叶问3",
+        "tmdb_release_date": "2015-12-24"
+      },
+      {
+        "title": "可爱的你 五個小孩的校長",
+        "link": "https://movie.douban.com/subject/25870236/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 332980,
+        "tmdb_title": "可爱的你",
+        "tmdb_release_date": "2015-03-19"
+      },
+      {
+        "title": "踏血寻梅 踏血尋梅",
+        "link": "https://movie.douban.com/subject/25966085/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 334557,
+        "tmdb_title": "踏血寻梅",
+        "tmdb_release_date": "2015-11-13"
+      }
+    ]
+  },
+  {
+    "session": 36,
+    "year": 2017,
+    "award_category": "最佳电影 Best Film",
+    "winner": "树大招风 樹大招風",
+    "nominees": [
+      "美人鱼",
+      "寒战2 寒戰II",
+      "七月与安生",
+      "点五步 點五步"
+    ],
+    "all_movies_data": [
+      {
+        "title": "树大招风 樹大招風",
+        "link": "https://movie.douban.com/subject/26265170/",
+        "metas": "",
+        "is_winner": true,
+        "tmdb_id": 380762,
+        "tmdb_title": "树大招风",
+        "tmdb_release_date": "2016-04-07"
+      },
+      {
+        "title": "美人鱼",
+        "link": "https://movie.douban.com/subject/19944106/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 381890,
+        "tmdb_title": "美人鱼",
+        "tmdb_release_date": "2016-02-08"
+      },
+      {
+        "title": "寒战2 寒戰II",
+        "link": "https://movie.douban.com/subject/20505982/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 416249,
+        "tmdb_title": "寒战2",
+        "tmdb_release_date": "2016-07-08"
+      },
+      {
+        "title": "七月与安生",
+        "link": "https://movie.douban.com/subject/25827935/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 417419,
+        "tmdb_title": "七月与安生",
+        "tmdb_release_date": "2016-09-14"
+      },
+      {
+        "title": "点五步 點五步",
+        "link": "https://movie.douban.com/subject/26704592/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 367196,
+        "tmdb_title": "点五步",
+        "tmdb_release_date": "2016-04-23"
+      }
+    ]
+  },
+  {
+    "session": 37,
+    "year": 2018,
+    "award_category": "最佳电影 Best Film",
+    "winner": "明月几时有",
+    "nominees": [
+      "追龙 追龍",
+      "拆弹专家",
+      "相爱相亲",
+      "杀破狼·贪狼 殺破狼‧貪狼"
+    ],
+    "all_movies_data": [
+      {
+        "title": "明月几时有",
+        "link": "https://movie.douban.com/subject/26425072/",
+        "metas": "",
+        "is_winner": true,
+        "tmdb_id": 452400,
+        "tmdb_title": "明月几时有",
+        "tmdb_release_date": "2017-07-01"
+      },
+      {
+        "title": "追龙 追龍",
+        "link": "https://movie.douban.com/subject/26425068/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 1208883,
+        "tmdb_title": "猛龙追踪",
+        "tmdb_release_date": "1973-01-01"
+      },
+      {
+        "title": "拆弹专家",
+        "link": "https://movie.douban.com/subject/26748673/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 441531,
+        "tmdb_title": "拆弹专家",
+        "tmdb_release_date": "2017-04-20"
+      },
+      {
+        "title": "相爱相亲",
+        "link": "https://movie.douban.com/subject/26773744/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 482590,
+        "tmdb_title": "相爱相亲",
+        "tmdb_release_date": "2017-11-03"
+      },
+      {
+        "title": "杀破狼·贪狼 殺破狼‧貪狼",
+        "link": "https://movie.douban.com/subject/26826398/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 452558,
+        "tmdb_title": "杀破狼·贪狼",
+        "tmdb_release_date": "2017-08-25"
+      }
+    ]
+  },
+  {
+    "session": 38,
+    "year": 2019,
+    "award_category": "最佳电影 Best Film",
+    "winner": "无双 無雙",
+    "nominees": [
+      "红海行动",
+      "逆流大叔",
+      "沦落人 淪落人",
+      "三夫"
+    ],
+    "all_movies_data": [
+      {
+        "title": "无双 無雙",
+        "link": "https://movie.douban.com/subject/26425063/",
+        "metas": "",
+        "is_winner": true,
+        "tmdb_id": 525660,
+        "tmdb_title": "真·三国无双",
+        "tmdb_release_date": "2021-04-27"
+      },
+      {
+        "title": "红海行动",
+        "link": "https://movie.douban.com/subject/26861685/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 460555,
+        "tmdb_title": "红海行动",
+        "tmdb_release_date": "2018-02-16"
+      },
+      {
+        "title": "逆流大叔",
+        "link": "https://movie.douban.com/subject/26958485/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 530776,
+        "tmdb_title": "逆流大叔",
+        "tmdb_release_date": "2018-08-02"
+      },
+      {
+        "title": "沦落人 淪落人",
+        "link": "https://movie.douban.com/subject/30140231/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 558218,
+        "tmdb_title": "沦落人",
+        "tmdb_release_date": "2018-11-06"
+      },
+      {
+        "title": "三夫",
+        "link": "https://movie.douban.com/subject/30334399/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 550353,
+        "tmdb_title": "三夫",
+        "tmdb_release_date": "2018-11-25"
+      }
+    ]
+  },
+  {
+    "session": 39,
+    "year": 2020,
+    "award_category": "最佳电影 Best Film",
+    "winner": "少年的你",
+    "nominees": [
+      "新喜剧之王",
+      "花椒之味",
+      "麦路人 麥路人",
+      "叔·叔"
+    ],
+    "all_movies_data": [
+      {
+        "title": "少年的你",
+        "link": "https://movie.douban.com/subject/30166972/",
+        "metas": "",
+        "is_winner": true,
+        "tmdb_id": 575813,
+        "tmdb_title": "少年的你",
+        "tmdb_release_date": "2019-10-25"
+      },
+      {
+        "title": "新喜剧之王",
+        "link": "https://movie.douban.com/subject/4840388/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 575138,
+        "tmdb_title": "新喜剧之王",
+        "tmdb_release_date": "2019-02-05"
+      },
+      {
+        "title": "花椒之味",
+        "link": "https://movie.douban.com/subject/26935296/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 620210,
+        "tmdb_title": "花椒之味",
+        "tmdb_release_date": "2019-09-06"
+      },
+      {
+        "title": "麦路人 麥路人",
+        "link": "https://movie.douban.com/subject/30312137/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 640092,
+        "tmdb_title": "麦路人",
+        "tmdb_release_date": "2020-09-17"
+      },
+      {
+        "title": "叔·叔",
+        "link": "https://movie.douban.com/subject/33428622/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 630878,
+        "tmdb_title": "叔·叔",
+        "tmdb_release_date": "2020-02-27"
+      }
+    ]
+  },
+  {
+    "session": 40,
+    "year": 2021,
+    "award_category": "最佳电影 Best Film",
+    "winner": "怒火·重案 怒火",
+    "nominees": [
+      "智齿 智齒",
+      "梅艳芳 梅艷芳",
+      "妈妈的神奇小子 媽媽的神奇小子"
+    ],
+    "all_movies_data": [
+      {
+        "title": "怒火·重案 怒火",
+        "link": "https://movie.douban.com/subject/30174085/",
+        "metas": "",
+        "is_winner": true,
+        "tmdb_id": 513692,
+        "tmdb_title": "怒火·重案",
+        "tmdb_release_date": "2021-07-28"
+      },
+      {
+        "title": "智齿 智齒",
+        "link": "https://movie.douban.com/subject/27124695/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 118178,
+        "tmdb_title": "智齿",
+        "tmdb_release_date": "2005-09-29"
+      },
+      {
+        "title": "梅艳芳 梅艷芳",
+        "link": "https://movie.douban.com/subject/30176790/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 726168,
+        "tmdb_title": "梅艳芳红馆绝唱经典演唱会",
+        "tmdb_release_date": "2003-11-01"
+      },
+      {
+        "title": "妈妈的神奇小子 媽媽的神奇小子",
+        "link": "https://movie.douban.com/subject/32568661/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 741318,
+        "tmdb_title": "妈妈的神奇小子",
+        "tmdb_release_date": "2021-08-12"
+      }
+    ]
+  },
+  {
+    "session": 41,
+    "year": 2022,
+    "award_category": "最佳电影 Best Film",
+    "winner": "给十九岁的我 給十九歲的我",
+    "nominees": [
+      "明日战记 明日戰記",
+      "神探大战 神探大戰",
+      "正义回廊 正義迴廊",
+      "窄路微尘 窄路微塵"
+    ],
+    "all_movies_data": [
+      {
+        "title": "给十九岁的我 給十九歲的我",
+        "link": "https://movie.douban.com/subject/36070356/",
+        "metas": "",
+        "is_winner": true,
+        "tmdb_id": 1005261,
+        "tmdb_title": "给十九岁的我",
+        "tmdb_release_date": "2022-12-23"
+      },
+      {
+        "title": "明日战记 明日戰記",
+        "link": "https://movie.douban.com/subject/26353671/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 518896,
+        "tmdb_title": "明日战记",
+        "tmdb_release_date": "2022-08-05"
+      },
+      {
+        "title": "神探大战 神探大戰",
+        "link": "https://movie.douban.com/subject/26995893/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 1257538,
+        "tmdb_title": "神探大战2",
+        "tmdb_release_date": ""
+      },
+      {
+        "title": "正义回廊 正義迴廊",
+        "link": "https://movie.douban.com/subject/35311878/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 1005251,
+        "tmdb_title": "正义回廊",
+        "tmdb_release_date": "2022-10-27"
+      },
+      {
+        "title": "窄路微尘 窄路微塵",
+        "link": "https://movie.douban.com/subject/35573316/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 957861,
+        "tmdb_title": "窄路微尘",
+        "tmdb_release_date": "2022-12-22"
+      }
+    ]
+  },
+  {
+    "session": 42,
+    "year": 2023,
+    "award_category": "最佳电影 Best Film",
+    "winner": "毒舌律师 毒舌大狀",
+    "nominees": [
+      "年少日记 年少日記",
+      "金手指",
+      "命案",
+      "白日之下"
+    ],
+    "all_movies_data": [
+      {
+        "title": "毒舌律师 毒舌大狀",
+        "link": "https://movie.douban.com/subject/35914259/",
+        "metas": "",
+        "is_winner": true,
+        "tmdb_id": 990326,
+        "tmdb_title": "毒舌律师",
+        "tmdb_release_date": "2023-01-20"
+      },
+      {
+        "title": "年少日记 年少日記",
+        "link": "https://movie.douban.com/subject/34940879/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 475136,
+        "tmdb_title": "BEYOND日记之莫欺少年穷",
+        "tmdb_release_date": "1991-08-29"
+      },
+      {
+        "title": "金手指",
+        "link": "https://movie.douban.com/subject/35074609/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 823598,
+        "tmdb_title": "金手指",
+        "tmdb_release_date": "2023-12-30"
+      },
+      {
+        "title": "命案",
+        "link": "https://movie.douban.com/subject/35524438/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 969050,
+        "tmdb_title": "命案",
+        "tmdb_release_date": "2023-04-20"
+      },
+      {
+        "title": "白日之下",
+        "link": "https://movie.douban.com/subject/36093612/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 1099217,
+        "tmdb_title": "白日之下",
+        "tmdb_release_date": "2023-11-02"
+      }
+    ]
+  },
+  {
+    "session": 43,
+    "year": 2024,
+    "award_category": "最佳电影 Best Film",
+    "winner": "九龙城寨之围城 九龍城寨·圍城",
+    "nominees": [
+      "从今以后 從今以後",
+      "爸爸",
+      "破·地狱 破·地獄",
+      "看我今天怎么说 看我今天怎麼說"
+    ],
+    "all_movies_data": [
+      {
+        "title": "九龙城寨之围城 九龍城寨·圍城",
+        "link": "https://movie.douban.com/subject/24284175/",
+        "metas": "",
+        "is_winner": true,
+        "tmdb_id": 923667,
+        "tmdb_title": "九龙城寨之围城",
+        "tmdb_release_date": "2024-05-01"
+      },
+      {
+        "title": "从今以后 從今以後",
+        "link": "https://movie.douban.com/subject/35618436/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 1157680,
+        "tmdb_title": "从今以后",
+        "tmdb_release_date": "2024-05-01"
+      },
+      {
+        "title": "爸爸",
+        "link": "https://movie.douban.com/subject/36315000/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 1178574,
+        "tmdb_title": "爸爸",
+        "tmdb_release_date": "2024-12-05"
+      },
+      {
+        "title": "破·地狱 破·地獄",
+        "link": "https://movie.douban.com/subject/36712987/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 1542314,
+        "tmdb_title": "破·地狱：感恩特别版",
+        "tmdb_release_date": "2025-04-04"
+      },
+      {
+        "title": "看我今天怎么说 看我今天怎麼說",
+        "link": "https://movie.douban.com/subject/36766358/",
+        "metas": "",
+        "is_winner": false,
+        "tmdb_id": 1239041,
+        "tmdb_title": "看我今天怎么说",
+        "tmdb_release_date": "2025-01-18"
+      }
+    ]
+  }
+]
